@@ -1,0 +1,7 @@
+https://yeastmine.yeastgenome.org/yeastmine/template.do?name=HumanGene_YeastHomolog_Disease&scope=global
+
+Look at python code above.
+
+YWHAZ
+ARF4
+

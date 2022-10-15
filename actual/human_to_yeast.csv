@@ -9,6 +9,7 @@ ABCB11,"ATP-binding cassette, sub-family B (MDR/TAP), member 11",8647,603201,STE
 ABCB4,"ATP-binding cassette, sub-family B (MDR/TAP), member 4",5244,171060,STE6,YKL209C,STErile,602347,"CHOLESTASIS, PROGRESSIVE FAMILIAL INTRAHEPATIC, 3; PFIC3",DiOPT,InParanoid|OrthoInspector|SonicParanoid,3,9
 ABCB4,"ATP-binding cassette, sub-family B (MDR/TAP), member 4",5244,171060,STE6,YKL209C,STErile,614972,"CHOLESTASIS, INTRAHEPATIC, OF PREGNANCY 3; ICP3",DiOPT,InParanoid|OrthoInspector|SonicParanoid,3,9
 ABCB4,"ATP-binding cassette, sub-family B (MDR/TAP), member 4",5244,171060,STE6,YKL209C,STErile,600803,GALLBLADDER DISEASE 1; GBD1,DiOPT,InParanoid|OrthoInspector|SonicParanoid,3,9
+ABCC2,"ATP-binding cassette, sub-family C (CFTR/MRP), member 2",1244,601107,YCF1,YDR135C,Yeast Cadmium Factor,237500,DUBIN-JOHNSON SYNDROME; DJS,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 ABCC9,"ATP-binding cassette, sub-family C (CFTR/MRP), member 9",10060,601439,YBT1,YLL048C,Yeast Bile Transporter,608569,"CARDIOMYOPATHY, DILATED, 1O; CMD1O",DiOPT,PhylomeDB|Ensembl Compara,2,9
 ABCC9,"ATP-binding cassette, sub-family C (CFTR/MRP), member 9",10060,601439,YBT1,YLL048C,Yeast Bile Transporter,239850,CANTU SYNDROME,DiOPT,PhylomeDB|Ensembl Compara,2,9
 ABCC9,"ATP-binding cassette, sub-family C (CFTR/MRP), member 9",10060,601439,YBT1,YLL048C,Yeast Bile Transporter,614050,"ATRIAL FIBRILLATION, FAMILIAL, 12; ATFB12",DiOPT,PhylomeDB|Ensembl Compara,2,9
@@ -22,10 +23,12 @@ ACTR2,ARP2 actin-related protein 2 homolog (yeast),10097,604221,ARP2,YDL029W,Act
 ACTR3,ARP3 actin-related protein 3 homolog (yeast),10096,604222,ARP3,YJR065C,Actin-Related Protein,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 ADA,adenosine deaminase,100,608958,AAH1,YNL141W,Adenine AminoHydrolase,102700,"SEVERE COMBINED IMMUNODEFICIENCY, AUTOSOMAL RECESSIVE, T CELL-NEGATIVE, B CELL-NEGATIVE, NK CELL-NEGATIVE, DUE TO ADENOSINE DEAMINASE DEFICIENCY",DiOPT,OrthoInspector|InParanoid|Hieranoid|OMA|SonicParanoid,5,9
 ADHFE1,"alcohol dehydrogenase, iron containing, 1",137872,611083,ADH4,YGL256W,Alcohol DeHydrogenase,,,DiOPT,OrthoInspector|OrthoFinder|InParanoid|Hieranoid|Ensembl Compara,5,9
+ADSL,adenylosuccinate lyase,158,608222,ADE13,YLR359W,ADEnine requiring,103050,ADENYLOSUCCINASE DEFICIENCY,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 AEN,apoptosis enhancing nuclease,64782,610177,REX4,YOL080C,Rna EXonuclease,,,DiOPT,InParanoid|PANTHER|OrthoFinder,3,9
 AGPAT1,1-acylglycerol-3-phosphate O-acyltransferase 1,10554,603099,SLC1,YDL052C,SphingoLipid Compensation,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 AGPAT2,1-acylglycerol-3-phosphate O-acyltransferase 2,10555,603100,SLC1,YDL052C,SphingoLipid Compensation,608594,"LIPODYSTROPHY, CONGENITAL GENERALIZED, TYPE 1; CGL1",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 AGXT,alanine-glyoxylate aminotransferase,189,604285,AGX1,YFL030W,Alanine:Glyoxylate aminotrans(X)ferase,259900,"HYPEROXALURIA, PRIMARY, TYPE I; HP1",DiOPT,OrthoInspector|OrthoFinder|InParanoid|Hieranoid|OMA|Ensembl Compara,6,9
+AHCY,adenosylhomocysteinase,191,180960,SAH1,YER043C,S-Adenosyl-l-Homocysteine hydrolase,613752,HYPERMETHIONINEMIA WITH S-ADENOSYLHOMOCYSTEINE HYDROLASE DEFICIENCY,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 AK3,adenylate kinase 3,50808,609290,ADK2,YER170W,ADenylate Kinase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,8,9
 AK4,adenylate kinase 4,205,103030,ADK2,YER170W,ADenylate Kinase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 AKR1B1,"aldo-keto reductase family 1, member B1 (aldose reductase)",231,103880,GCY1,YOR120W,Galactose-inducible Crystallin-like Yeast protein,,,DiOPT,OrthoInspector|InParanoid|OMA|SonicParanoid|Ensembl Compara,5,9
@@ -54,6 +57,7 @@ AP1S1,adaptor-related protein complex 1 sigma 1 subunit,1174,603531,APS1,YLR170C
 AP2S1,adaptor-related protein complex 2 sigma 1 subunit,1175,602242,APS2,YJR058C,clathrin Associated Protein complex Small subunit,600740,"HYPOCALCIURIC HYPERCALCEMIA, FAMILIAL, TYPE III; HHC3",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 AP3B1,"adaptor-related protein complex 3, beta 1 subunit",8546,603401,APL6,YGR261C,clathrin Adaptor Protein complex Large chain,608233,HERMANSKY-PUDLAK SYNDROME 2; HPS2,DiOPT,PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA,6,9
 AP3M1,"adaptor-related protein complex 3, mu 1 subunit",26985,610366,APM3,YBR288C,clathrin Adaptor Protein complex Medium chain,,,DiOPT,Ensembl Compara|Hieranoid|PANTHER|OrthoFinder,4,9
+AQP4,aquaporin 4,361,600308,AQY1,YPR192W,AQuaporin from Yeast,,,DiOPT,InParanoid|OrthoInspector|PhylomeDB|SonicParanoid,4,9
 AQP7,aquaporin 7,364,602974,AQY3,YFL054C,AQuaporin from Yeast,614411,GLYCEROL QUANTITATIVE TRAIT LOCUS; GLYCQTL,DiOPT,OrthoInspector|PhylomeDB|PANTHER|Hieranoid|SonicParanoid|Ensembl Compara,6,9
 AQP9,aquaporin 9,366,602914,AQY3,YFL054C,AQuaporin from Yeast,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|Hieranoid|SonicParanoid|Ensembl Compara,6,9
 AQP9,aquaporin 9,366,602914,FPS1,YLL043W,fdp1 Suppressor,,,DiOPT,Ensembl Compara|PhylomeDB|PANTHER,3,9
@@ -94,13 +98,17 @@ ATP6V0B,"ATPase, H+ transporting, lysosomal 21kDa, V0 subunit b",533,603717,VMA1
 ATP6V0C,"ATPase, H+ transporting, lysosomal 16kDa, V0 subunit c",527,108745,VMA3,YEL027W,Vacuolar Membrane Atpase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 ATP6V0D1,"ATPase, H+ transporting, lysosomal 38kDa, V0 subunit d1",9114,607028,VMA6,YLR447C,Vacuolar Membrane Atpase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 ATP6V0E1,"ATPase, H+ transporting, lysosomal 9kDa, V0 subunit e1",8992,603931,VMA9,YCL005W-A,Vacuolar Membrane Atpase,,,DiOPT,Hieranoid|PANTHER|OrthoFinder,3,9
+ATP6V1B2,"ATPase, H+ transporting, lysosomal 56/58kDa, V1 subunit B2",526,606939,VMA2,YBR127C,Vacuolar Membrane Atpase,616455,ZIMMERMANN-LABAND SYNDROME 2; ZLS2,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,8,9
 ATP6V1E1,"ATPase, H+ transporting, lysosomal 31kDa, V1 subunit E1",529,108746,VMA4,YOR332W,Vacuolar Membrane Atpase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA,7,9
 ATP6V1F,"ATPase, H+ transporting, lysosomal 14kDa, V1 subunit F",9296,607160,VMA7,YGR020C,Vacuolar Membrane Atpase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 ATP6V1G1,"ATPase, H+ transporting, lysosomal 13kDa, V1 subunit G1",9550,607296,VMA10,YHR039C-A,,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA,7,9
 ATP9A,"ATPase, class II, type 9A",10079,609126,NEO1,YIL048W,NEOmycin-resistance,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,8,9
 ATP9B,"ATPase, class II, type 9B",374868,614446,NEO1,YIL048W,NEOmycin-resistance,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
+BCAT1,"branched chain amino-acid transaminase 1, cytosolic",586,113520,BAT1,YHR208W,Branched-chain Amino acid Transaminase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,8,9
+BCAT1,"branched chain amino-acid transaminase 1, cytosolic",586,113520,BAT2,YJR148W,Branched-chain Amino acid Transaminase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,8,9
 BCAT2,"branched chain amino-acid transaminase 2, mitochondrial",587,113530,BAT1,YHR208W,Branched-chain Amino acid Transaminase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 BCAT2,"branched chain amino-acid transaminase 2, mitochondrial",587,113530,BAT2,YJR148W,Branched-chain Amino acid Transaminase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
+BOLA2,bolA family member 2,552900,613182,BOL2,YGL220W,BolA-like protein,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|Ensembl Compara,8,9
 BOLA3,bolA family member 3,388962,613183,BOL3,YAL046C,BolA-like protein,614299,MULTIPLE MITOCHONDRIAL DYSFUNCTIONS SYNDROME 2; MMDS2,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|SonicParanoid|Ensembl Compara,7,9
 BPGM,"2,3-bisphosphoglycerate mutase",669,613896,GPM1,YKL152C,Glycerate PhosphoMutase,222800,BISPHOSPHOGLYCERATE MUTASE DEFICIENCY,DiOPT,OrthoInspector|PhylomeDB|InParanoid|Hieranoid|SonicParanoid,5,9
 BRD1,bromodomain containing 1,23774,604589,NTO1,YPR031W,NuA Three Orf,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|SonicParanoid|Ensembl Compara,5,9
@@ -145,6 +153,10 @@ CFL1,cofilin 1 (non-muscle),1072,601442,COF1,YLL050C,COFilin,,,DiOPT,OrthoInspec
 CH25H,cholesterol 25-hydroxylase,9023,604551,SUR2,YDR297W,SUppressor of Rvs161 and rvs167 mutations,,,DiOPT,Ensembl Compara|OrthoFinder,2,9
 CHAF1B,"chromatin assembly factor 1, subunit B (p60)",8208,601245,CAC2,YML102W,Chromatin Assembly Complex,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 CHD2,chromodomain helicase DNA binding protein 2,1106,602119,CHD1,YER164W,"Chromatin organization modifier, Helicase, and DNA-binding domains",615369,"EPILEPTIC ENCEPHALOPATHY, CHILDHOOD-ONSET; EEOC",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,8,9
+CHEK2,checkpoint kinase 2,11200,604373,DUN1,YDL101C,DNA-damage UNinducible,176807,PROSTATE CANCER,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|SonicParanoid|Ensembl Compara,7,9
+CHEK2,checkpoint kinase 2,11200,604373,DUN1,YDL101C,DNA-damage UNinducible,114480,BREAST CANCER,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|SonicParanoid|Ensembl Compara,7,9
+CHEK2,checkpoint kinase 2,11200,604373,DUN1,YDL101C,DNA-damage UNinducible,259500,OSTEOGENIC SARCOMA,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|SonicParanoid|Ensembl Compara,7,9
+CHEK2,checkpoint kinase 2,11200,604373,DUN1,YDL101C,DNA-damage UNinducible,609265,LI-FRAUMENI SYNDROME 2; LFS2,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|SonicParanoid|Ensembl Compara,7,9
 CHI3L1,chitinase 3-like 1 (cartilage glycoprotein-39),1116,601525,CTS2,YDR371W,ChiTinaSe,611960,"ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO, 7; ASRT7",DiOPT,OrthoInspector|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,6,9
 CHI3L1,chitinase 3-like 1 (cartilage glycoprotein-39),1116,601525,CTS2,YDR371W,ChiTinaSe,181500,SCHIZOPHRENIA; SCZD,DiOPT,OrthoInspector|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,6,9
 CHMP4A,charged multivesicular body protein 4A,29082,610051,SNF7,YLR025W,Sucrose NonFermenting,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA,7,9
@@ -172,7 +184,11 @@ COQ2,coenzyme Q2 4-hydroxybenzoate polyprenyltransferase,27235,609825,COQ2,YNR04
 COQ7,"coenzyme Q7 homolog, ubiquinone (yeast)",10229,601683,CAT5,YOR125C,CATabolite repression,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 CORO1A,"coronin, actin binding protein, 1A",11151,605000,CRN1,YLR429W,CoRoNin,615401,IMMUNODEFICIENCY 8; IMD8,DiOPT,OrthoInspector|PANTHER|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,6,9
 CORO1C,"coronin, actin binding protein, 1C",23603,605269,CRN1,YLR429W,CoRoNin,,,DiOPT,OrthoInspector|PANTHER|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,6,9
+COX4I1,cytochrome c oxidase subunit IV isoform 1,1327,123864,COX5A,YNL052W,Cytochrome c OXidase,,,DiOPT,Ensembl Compara|Hieranoid|PANTHER,3,9
+COX4I1,cytochrome c oxidase subunit IV isoform 1,1327,123864,COX5B,YIL111W,Cytochrome c OXidase,,,DiOPT,Hieranoid|PANTHER|Ensembl Compara,3,9
 COX5A,cytochrome c oxidase subunit Va,9377,603773,COX6,YHR051W,Cytochrome c OXidase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
+CPA3,carboxypeptidase A3 (mast cell),1359,114851,ECM14,YHR132C,ExtraCellular Mutant,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|OMA|SonicParanoid|Ensembl Compara,8,9
+CPA4,carboxypeptidase A4,51200,607635,ECM14,YHR132C,ExtraCellular Mutant,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|OMA|SonicParanoid|Ensembl Compara,8,9
 CRY2,cryptochrome circadian clock 2,1408,603732,PHR1,YOR386W,PHotoreactivation Repair deficient,,,DiOPT,InParanoid|OrthoInspector|SonicParanoid,3,9
 CRYM,"crystallin, mu",1428,123740,,YGL159W,,616357,"DEAFNESS, AUTOSOMAL DOMINANT 40; DFNA40",DiOPT,OrthoInspector|PhylomeDB|OrthoFinder|InParanoid|Hieranoid|Ensembl Compara,6,9
 CRYZ,"crystallin, zeta (quinone reductase)",1429,123691,ZTA1,YBR046C,ZeTA-crystallin,,,DiOPT,Hieranoid|PhylomeDB|Ensembl Compara,3,9
@@ -185,7 +201,9 @@ CTSA,cathepsin A,5476,613111,PRC1,YMR297W,PRoteinase C,256540,GALACTOSIALIDOSIS;
 CTSD,cathepsin D,1509,116840,PEP4,YPL154C,carboxyPEPtidase Y-deficient,610127,"CEROID LIPOFUSCINOSIS, NEURONAL, 10; CLN10",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 CUL1,cullin 1,8454,603134,CDC53,YDL132W,Cell Division Cycle,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 CUL3,cullin 3,8452,603136,CUL3,YGR003W,CULlin,614496,"PSEUDOHYPOALDOSTERONISM, TYPE IIE; PHA2E",DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,7,9
+CUX2,cut-like homeobox 2,23316,610648,COY1,YKL179C,CASP Of Yeast,,,DiOPT,OrthoInspector|PANTHER|Ensembl Compara|OrthoFinder,4,9
 CXXC1,CXXC finger protein 1,30827,609150,SPP1,YPL138C,"Set1c, Phd finger Protein",,,DiOPT,OrthoInspector|PANTHER|OrthoFinder,3,9
+CYB5R2,cytochrome b5 reductase 2,51700,608342,CBR1,YIL043C,Cytochrome b Reductase,,,DiOPT,OrthoInspector|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,6,9
 CYB5R3,cytochrome b5 reductase 3,1727,613213,AIM33,YML087C,Altered Inheritance rate of Mitochondria,250800,METHEMOGLOBINEMIA DUE TO DEFICIENCY OF METHEMOGLOBIN REDUCTASE,DiOPT,OrthoFinder|InParanoid|OMA|SonicParanoid|Ensembl Compara,5,9
 CYB5R3,cytochrome b5 reductase 3,1727,613213,CBR1,YIL043C,Cytochrome b Reductase,250800,METHEMOGLOBINEMIA DUE TO DEFICIENCY OF METHEMOGLOBIN REDUCTASE,DiOPT,OrthoInspector|PANTHER|Hieranoid|OMA|SonicParanoid|Ensembl Compara,6,9
 CYB5R3,cytochrome b5 reductase 3,1727,613213,PGA3,YML125C,Processing of Gas1p and ALP,250800,METHEMOGLOBINEMIA DUE TO DEFICIENCY OF METHEMOGLOBIN REDUCTASE,DiOPT,OrthoInspector|OrthoFinder|InParanoid|OMA|SonicParanoid|Ensembl Compara,6,9
@@ -226,9 +244,11 @@ DPH1,diphthamide biosynthesis 1,1801,603527,DPH1,YIL103W,DiPHthamide biosynthesi
 DPH2,DPH2 homolog,1802,603456,DPH2,YKL191W,DiPHthamide,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 DPH3,diphthamide biosynthesis 3,285381,608959,KTI11,YBL071W-A,Kluveromyces lactis Toxin Insensitive,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,7,9
 DPM1,"dolichyl-phosphate mannosyltransferase polypeptide 1, catalytic subunit",8813,603503,DPM1,YPR183W,Dolichol Phosphate Mannose synthase,608799,"CONGENITAL DISORDER OF GLYCOSYLATION, TYPE Ie; CDG1E",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|Ensembl Compara,8,9
+DPYSL2,dihydropyrimidinase-like 2,1808,602463,DAL1,YIR027C,Degradation of Allantoin,,,DiOPT,InParanoid|SonicParanoid,2,9
 DRAP1,DR1-associated protein 1 (negative cofactor 2 alpha),10589,602289,BUR6,YER159C,Bypass UAS Requirement,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|Hieranoid|SonicParanoid|Ensembl Compara,6,9
 DRG1,developmentally regulated GTP binding protein 1,4733,603952,RBG1,YAL036C,RiBosome interacting Gtpase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 DTD1,D-tyrosyl-tRNA deacylase 1,92675,610996,DTD1,YDL219W,D-Tyr-tRNA(Tyr) Deacylase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
+DUSP10,dual specificity phosphatase 10,11221,608867,MSG5,YNL053W,Multicopy Suppressor of GPA1,,,DiOPT,PANTHER|SonicParanoid|Ensembl Compara,3,9
 DUSP5,dual specificity phosphatase 5,1847,603069,MSG5,YNL053W,Multicopy Suppressor of GPA1,,,DiOPT,Ensembl Compara|SonicParanoid|PANTHER,3,9
 DUSP8,dual specificity phosphatase 8,1850,602038,MSG5,YNL053W,Multicopy Suppressor of GPA1,,,DiOPT,Ensembl Compara|SonicParanoid|PANTHER,3,9
 DUT,deoxyuridine triphosphatase,1854,601266,DUT1,YBR252W,DUTp pyrophosphatase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,8,9
@@ -242,6 +262,7 @@ EEF2KMT,eukaryotic elongation factor 2 lysine methyltransferase,196483,615263,EF
 EFR3A,EFR3 homolog A,23167,611798,EFR3,YMR212C,PHO Eighty Five Requiring,,,DiOPT,Ensembl Compara|OrthoFinder,2,9
 EHD4,EH-domain containing 4,30844,605892,IRS4,YKR019C,Increased rDNA Silencing,,,DiOPT,Ensembl Compara|PANTHER,2,9
 EHD4,EH-domain containing 4,30844,605892,SLA1,YBL007C,Synthetic Lethal with ABP1,,,DiOPT,Ensembl Compara|PANTHER,2,9
+EIF2B1,"eukaryotic translation initiation factor 2B, subunit 1 alpha, 26kDa",1967,606686,GCN3,YKR026C,General Control Nonderepressible,603896,LEUKOENCEPHALOPATHY WITH VANISHING WHITE MATTER; VWM,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 EIF2S2,"eukaryotic translation initiation factor 2, subunit 2 beta, 38kDa",8894,603908,SUI3,YPL237W,SUppressor of Initiator codon,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,8,9
 EIF4G2,"eukaryotic translation initiation factor 4 gamma, 2",1982,602325,TIF4631,YGR162W,Translation Initiation Factor,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|SonicParanoid|Ensembl Compara,5,9
 EIF4G2,"eukaryotic translation initiation factor 4 gamma, 2",1982,602325,TIF4632,YGL049C,Translation Initiation Factor,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|SonicParanoid|Ensembl Compara,5,9
@@ -251,6 +272,7 @@ EIF5A,eukaryotic translation initiation factor 5A,1984,600187,ANB1,YJR047C,ANaer
 EIF5A,eukaryotic translation initiation factor 5A,1984,600187,HYP2,YEL034W,HYPusine-containing protein,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,8,9
 EIF6,eukaryotic translation initiation factor 6,3692,602912,TIF6,YPR016C,Translation Initiation Factor,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 ELOVL1,ELOVL fatty acid elongase 1,64834,611813,ELO3,YLR372W,fatty acid ELOngation,,,DiOPT,InParanoid|OrthoInspector|OMA|Ensembl Compara,4,9
+EMG1,EMG1 N1-specific pseudouridine methyltransferase,10436,611531,EMG1,YLR186W,Essential for Mitotic Growth,211180,BOWEN-CONRADI SYNDROME; BWCNS,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 ENO1,"enolase 1, (alpha)",2023,172430,ENO1,YGR254W,ENOlase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 ENO1,"enolase 1, (alpha)",2023,172430,ENO2,YHR174W,ENOlase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 ENO1,"enolase 1, (alpha)",2023,172430,ERR1,YOR393W,Enolase-Related Repeat,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|OMA|SonicParanoid|Ensembl Compara,8,9
@@ -266,6 +288,7 @@ ENPP1,ectonucleotide pyrophosphatase/phosphodiesterase 1,5167,173335,NPP2,YEL016
 ENPP1,ectonucleotide pyrophosphatase/phosphodiesterase 1,5167,173335,NPP2,YEL016C,ecto-Nucleotide Pyrophosphatase/Phosphodiesterase,601665,"OBESITY LEANNESS, INCLUDED",DiOPT,OrthoInspector|PANTHER|Ensembl Compara|OrthoFinder,4,9
 ENPP1,ectonucleotide pyrophosphatase/phosphodiesterase 1,5167,173335,NPP2,YEL016C,ecto-Nucleotide Pyrophosphatase/Phosphodiesterase,613312,"HYPOPHOSPHATEMIC RICKETS, AUTOSOMAL RECESSIVE, 2; ARHR2",DiOPT,OrthoInspector|PANTHER|Ensembl Compara|OrthoFinder,4,9
 ENPP1,ectonucleotide pyrophosphatase/phosphodiesterase 1,5167,173335,NPP2,YEL016C,ecto-Nucleotide Pyrophosphatase/Phosphodiesterase,208000,"ARTERIAL CALCIFICATION, GENERALIZED, OF INFANCY, 1; GACI1",DiOPT,OrthoInspector|PANTHER|Ensembl Compara|OrthoFinder,4,9
+ENPP2,ectonucleotide pyrophosphatase/phosphodiesterase 2,5168,601060,NPP2,YEL016C,ecto-Nucleotide Pyrophosphatase/Phosphodiesterase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|Ensembl Compara,5,9
 ENTPD4,ectonucleoside triphosphate diphosphohydrolase 4,9583,607577,YND1,YER005W,Yeast Nucleoside Diphosphatase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 EPC1,enhancer of polycomb homolog 1 (Drosophila),80314,610999,EPL1,YFL024C,Enhancer of Polycomb Like,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|Ensembl Compara,7,9
 EPN2,epsin 2,22905,607263,ENT1,YDL161W,Epsin N-Terminal homology,,,DiOPT,Hieranoid|PANTHER|OrthoFinder,3,9
@@ -289,7 +312,9 @@ EXOSC2,exosome component 2,23404,602238,RRP4,YHR069C,Ribosomal RNA Processing,,,
 EZH1,enhancer of zeste 1 polycomb repressive complex 2 subunit,2145,601674,SET2,YJL168C,SET domain-containing,,,DiOPT,SonicParanoid|Ensembl Compara,2,9
 EZH2,enhancer of zeste 2 polycomb repressive complex 2 subunit,2146,601573,SET2,YJL168C,SET domain-containing,277590,WEAVER SYNDROME; WVS,DiOPT,SonicParanoid|Ensembl Compara,2,9
 FAP,fibroblast activation protein alpha,2191,600403,STE13,YOR219C,STErile,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
+FARS2,"phenylalanyl-tRNA synthetase 2, mitochondrial",10667,611592,MSF1,YPR047W,"Mitochondrial aminoacyl-tRNA Synthetase, Phenylalanine (F)",614946,COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 14; COXPD14,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 FARSB,phenylalanyl-tRNA synthetase beta subunit,10056,609690,FRS1,YLR060W,phenylalanyl (F)-tRNA Synthetase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
+FBL,fibrillarin,2091,134795,NOP1,YDL014W,NucleOlar Protein,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,8,9
 FBP1,"fructose-1,6-bisphosphatase 1",2203,611570,FBP1,YLR377C,"Fructose-1,6-BisPhosphatase",229700,"FRUCTOSE-1,6-BISPHOSPHATASE DEFICIENCY; FBP1D",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 FBXL13,F-box and leucine-rich repeat protein 13,222235,609080,GRR1,YJR090C,Glucose Repression-Resistant,,,DiOPT,OrthoInspector|Ensembl Compara,2,9
 FBXL7,F-box and leucine-rich repeat protein 7,23194,605656,GRR1,YJR090C,Glucose Repression-Resistant,,,DiOPT,OrthoInspector|Ensembl Compara,2,9
@@ -297,6 +322,7 @@ FBXL7,F-box and leucine-rich repeat protein 7,23194,605656,RAD7,YJR052W,RADiatio
 FBXO8,F-box protein 8,26269,605649,SYT1,YPR095C,Suppressor of ypt3,,,DiOPT,Ensembl Compara|PANTHER,2,9
 FBXW7,"F-box and WD repeat domain containing 7, E3 ubiquitin protein ligase",55294,606278,CDC4,YFL009W,Cell Division Cycle,,,DiOPT,Hieranoid|PhylomeDB|OrthoFinder,3,9
 FBXW7,"F-box and WD repeat domain containing 7, E3 ubiquitin protein ligase",55294,606278,MET30,YIL046W,METhionine requiring,,,DiOPT,InParanoid|OrthoInspector|SonicParanoid,3,9
+FDFT1,farnesyl-diphosphate farnesyltransferase 1,2222,184420,ERG9,YHR190W,ERGosterol biosynthesis,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 FDX1L,ferredoxin 1-like,112812,614585,YAH1,YPL252C,Yeast Adrenodoxin Homolog,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,7,9
 FDXR,ferredoxin reductase,2232,103270,ARH1,YDR376W,Adrenodoxin Reductase Homolog,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 FECH,ferrochelatase,2235,612386,HEM15,YOR176W,HEMe biosynthesis,177000,"PROTOPORPHYRIA, ERYTHROPOIETIC; EPP",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
@@ -314,6 +340,9 @@ GARS,glycyl-tRNA synthetase,2617,600287,GRS1,YBR121C,Glycyl-tRNA Synthase,600794
 GARS,glycyl-tRNA synthetase,2617,600287,GRS2,YPR081C,Glycyl-tRNA Synthase,601472,"CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2D; CMT2D",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|OMA|SonicParanoid|Ensembl Compara,8,9
 GARS,glycyl-tRNA synthetase,2617,600287,GRS2,YPR081C,Glycyl-tRNA Synthase,600794,"NEURONOPATHY, DISTAL HEREDITARY MOTOR, TYPE VA; HMN5A",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|OMA|SonicParanoid|Ensembl Compara,8,9
 GART,"phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase",2618,138440,ADE57,YGL234W,ADEnine requiring,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,8,9
+GCLC,"glutamate-cysteine ligase, catalytic subunit",2729,606857,GSH1,YJL101C,glutathione (GSH),230450,"GAMMA-GLUTAMYLCYSTEINE SYNTHETASE DEFICIENCY, HEMOLYTIC ANEMIA DUE TO",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
+GCLC,"glutamate-cysteine ligase, catalytic subunit",2729,606857,GSH1,YJL101C,glutathione (GSH),608446,"MYOCARDIAL INFARCTION, SUSCEPTIBILITY TO MYOCARDIAL INFARCTION, SUSCEPTIBILITY TO, 1, INCLUDED; MCI1, INCLUDED",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
+GDA,guanine deaminase,9615,139260,GUD1,YDL238C,GUanine Deaminase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 GGA1,"golgi-associated, gamma adaptin ear containing, ARF binding protein 1",26088,606004,GGA1,YDR358W,"Golgi-localized, Gamma-adaptin ear homology, Arf-binding protein",,,DiOPT,OrthoInspector|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,5,9
 GGA1,"golgi-associated, gamma adaptin ear containing, ARF binding protein 1",26088,606004,GGA2,YHR108W,"Golgi-localized, Gamma-adaptin ear homology, Arf-binding protein",,,DiOPT,OrthoInspector|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,6,9
 GGPS1,geranylgeranyl diphosphate synthase 1,9453,606982,BTS1,YPL069C,Bet Two Suppressor,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
@@ -356,10 +385,15 @@ H2AFZ,"H2A histone family, member Z",3015,142763,HTZ1,YOL012C,Histone Two A Z1,,
 HAAO,"3-hydroxyanthranilate 3,4-dioxygenase",23498,604521,BNA1,YJR025C,Biosynthesis of Nicotinic Acid,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,8,9
 HAT1,histone acetyltransferase 1,8520,603053,HAT1,YPL001W,Histone AcetylTransferase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|Ensembl Compara,8,9
 HCCS,holocytochrome c synthase,3052,300056,CYC3,YAL039C,CYtochrome C,309801,LINEAR SKIN DEFECTS WITH MULTIPLE CONGENITAL ANOMALIES 1; LSDMCA1,DiOPT,OrthoInspector|PhylomeDB|OrthoFinder|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,7,9
+HDAC8,histone deacetylase 8,55869,300269,HOS1,YPR068C,Hda One Similar,300882,CORNELIA DE LANGE SYNDROME 5; CDLS5,DiOPT,PhylomeDB|Ensembl Compara|OrthoFinder,3,9
+HDAC8,histone deacetylase 8,55869,300269,HOS1,YPR068C,Hda One Similar,309585,WILSON-TURNER X-LINKED MENTAL RETARDATION SYNDROME; WTS,DiOPT,PhylomeDB|Ensembl Compara|OrthoFinder,3,9
 HDLBP,high density lipoprotein binding protein,3069,142695,SCP160,YJL080C,S. cerevisiae protein involved in the Control of Ploidy,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,8,9
+HELLS,"helicase, lymphoid-specific",3070,603946,IRC5,YFR038W,Increased Recombination Centers,,,DiOPT,OrthoInspector|PhylomeDB|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,8,9
 HIST1H1B,"histone cluster 1, H1b",3009,142711,HHO1,YPL127C,Histone H One,,,DiOPT,InParanoid|Hieranoid|PANTHER,3,9
 HIST1H1C,"histone cluster 1, H1c",3006,142710,HHO1,YPL127C,Histone H One,,,DiOPT,InParanoid|Hieranoid|PANTHER,3,9
 HIST1H1D,"histone cluster 1, H1d",3007,142210,HHO1,YPL127C,Histone H One,,,DiOPT,InParanoid|Hieranoid|PANTHER,3,9
+HIST1H2AC,"histone cluster 1, H2ac",8334,602794,HTA1,YDR225W,Histone h Two A,,,DiOPT,OrthoInspector|PANTHER|InParanoid|Hieranoid|OMA|SonicParanoid,6,9
+HIST1H2AC,"histone cluster 1, H2ac",8334,602794,HTA2,YBL003C,Histone h Two A,,,DiOPT,OrthoInspector|PANTHER|InParanoid|Hieranoid|OMA|SonicParanoid,6,9
 HIST1H2AE,"histone cluster 1, H2ae",3012,602786,HTA1,YDR225W,Histone h Two A,,,DiOPT,OrthoInspector|PANTHER|InParanoid|Hieranoid|OMA|SonicParanoid,6,9
 HIST1H2AE,"histone cluster 1, H2ae",3012,602786,HTA2,YBL003C,Histone h Two A,,,DiOPT,OrthoInspector|PANTHER|InParanoid|Hieranoid|OMA|SonicParanoid,6,9
 HIST1H2AH,"histone cluster 1, H2ah",85235,615013,HTA1,YDR225W,Histone h Two A,,,DiOPT,OrthoInspector|PANTHER|InParanoid|Hieranoid|OMA|SonicParanoid,6,9
@@ -386,11 +420,17 @@ HIST2H2AA3,"histone cluster 2, H2aa3",8337,142720,HTA1,YDR225W,Histone h Two A,,
 HIST2H2AA3,"histone cluster 2, H2aa3",8337,142720,HTA2,YBL003C,Histone h Two A,,,DiOPT,OrthoInspector|PANTHER|InParanoid|Hieranoid|OMA|SonicParanoid,6,9
 HIST2H3C,"histone cluster 2, H3c",126961,142780,HHT1,YBR010W,Histone H Three,,,DiOPT,InParanoid|OrthoInspector|OMA|SonicParanoid,4,9
 HIST2H3C,"histone cluster 2, H3c",126961,142780,HHT2,YNL031C,Histone H Three,,,DiOPT,InParanoid|OrthoInspector|OMA|SonicParanoid,4,9
+HK1,hexokinase 1,3098,142600,HXK1,YFR053C,HeXoKinase,605285,"NEUROPATHY, HEREDITARY MOTOR AND SENSORY, RUSSE TYPE; HMSNR",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|SonicParanoid,5,9
+HK1,hexokinase 1,3098,142600,HXK1,YFR053C,HeXoKinase,235700,"HEMOLYTIC ANEMIA, NONSPHEROCYTIC, DUE TO HEXOKINASE DEFICIENCY",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|SonicParanoid,5,9
+HK1,hexokinase 1,3098,142600,HXK2,YGL253W,HeXoKinase,605285,"NEUROPATHY, HEREDITARY MOTOR AND SENSORY, RUSSE TYPE; HMSNR",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|SonicParanoid,5,9
+HK1,hexokinase 1,3098,142600,HXK2,YGL253W,HeXoKinase,235700,"HEMOLYTIC ANEMIA, NONSPHEROCYTIC, DUE TO HEXOKINASE DEFICIENCY",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|SonicParanoid,5,9
 HM13,histocompatibility (minor) 13,81502,607106,YPF1,YKL100C,Yeast Presenilin-like Family 1,,,DiOPT,OrthoInspector|PhylomeDB|InParanoid|SonicParanoid|Ensembl Compara,5,9
 HMBS,hydroxymethylbilane synthase,3145,609806,HEM3,YDL205C,HEMe biosynthesis,176000,"PORPHYRIA, ACUTE INTERMITTENT; AIP",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 HMGB3,high mobility group box 3,3149,300193,ABF2,YMR072W,ARS-Binding Factor,300915,"MICROPHTHALMIA, SYNDROMIC 13; MCOPS13",DiOPT,PANTHER|InParanoid|OMA|SonicParanoid|Ensembl Compara,5,9
 HMGB3,high mobility group box 3,3149,300193,NHP6B,YBR089C-A,Non-Histone Protein,300915,"MICROPHTHALMIA, SYNDROMIC 13; MCOPS13",DiOPT,OrthoInspector|SonicParanoid|PANTHER,3,9
 HNRNPAB,heterogeneous nuclear ribonucleoprotein A/B,3182,602688,HRP1,YOL123W,Heterogenous nuclear RibonucleoProtein,,,DiOPT,InParanoid|Hieranoid|Ensembl Compara,3,9
+HPCAL1,hippocalcin-like 1,3241,600207,FRQ1,YDR373W,FReQuenin homolog,,,DiOPT,Hieranoid|OrthoInspector|PANTHER,3,9
+HSD17B13,hydroxysteroid (17-beta) dehydrogenase 13,345275,612127,,YDL114W,,,,DiOPT,PANTHER|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,5,9
 HSFY1,"heat shock transcription factor, Y-linked 1",86614,400029,SKN7,YHR206W,Suppressor of Kre Null,,,DiOPT,Ensembl Compara|SonicParanoid|PANTHER,3,9
 HSP90AA1,"heat shock protein 90kDa alpha (cytosolic), class A member 1",3320,140571,HSC82,YMR186W,,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,8,9
 HSP90AA1,"heat shock protein 90kDa alpha (cytosolic), class A member 1",3320,140571,HSP82,YPL240C,Heat Shock Protein,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,8,9
@@ -414,6 +454,8 @@ IER3IP1,immediate early response 3 interacting protein 1,51124,609382,YOS1,YER07
 IGHMBP2,immunoglobulin mu binding protein 2,3508,600502,HCS1,YKL017C,dna HeliCaSe,616155,"CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2S; CMT2S",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 IGHMBP2,immunoglobulin mu binding protein 2,3508,600502,HCS1,YKL017C,dna HeliCaSe,604320,"SPINAL MUSCULAR ATROPHY, DISTAL, AUTOSOMAL RECESSIVE, 1; DSMA1",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 IMPA1,inositol(myo)-1(or 4)-monophosphatase 1,3612,602064,INM1,YHR046C,INositol Monophosphatase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,8,9
+IMPA2,inositol(myo)-1(or 4)-monophosphatase 2,3613,605922,INM1,YHR046C,INositol Monophosphatase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
+IMPA2,inositol(myo)-1(or 4)-monophosphatase 2,3613,605922,INM2,YDR287W,INositol Monophosphatase,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,8,9
 IMPDH1,IMP (inosine 5'-monophosphate) dehydrogenase 1,3614,146690,IMD2,YHR216W,IMP Dehydrogenase,613837,LEBER CONGENITAL AMAUROSIS 11; LCA11,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 IMPDH1,IMP (inosine 5'-monophosphate) dehydrogenase 1,3614,146690,IMD2,YHR216W,IMP Dehydrogenase,180105,RETINITIS PIGMENTOSA 10; RP10,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 IMPDH1,IMP (inosine 5'-monophosphate) dehydrogenase 1,3614,146690,IMD3,YLR432W,IMP Dehydrogenase,613837,LEBER CONGENITAL AMAUROSIS 11; LCA11,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
@@ -423,19 +465,28 @@ IMPDH1,IMP (inosine 5'-monophosphate) dehydrogenase 1,3614,146690,IMD4,YML056C,I
 ING5,"inhibitor of growth family, member 5",84289,608525,PHO23,YNL097C,PHOsphate metabolism,,,DiOPT,OrthoInspector|PANTHER|Ensembl Compara,3,9
 ING5,"inhibitor of growth family, member 5",84289,608525,YNG2,YHR090C,Yeast iNG1 homolog,,,DiOPT,InParanoid|OMA|PANTHER,3,9
 INPP5B,inositol polyphosphate-5-phosphatase B,3633,147264,INP54,YOL065C,INositol polyphosphate 5-Phosphatase,,,DiOPT,PANTHER|Ensembl Compara,2,9
+IP6K2,inositol hexakisphosphate kinase 2,51447,606992,ARG82,YDR173C,ARGinine requiring,,,DiOPT,PANTHER|Ensembl Compara|OrthoFinder,3,9
+IP6K2,inositol hexakisphosphate kinase 2,51447,606992,KCS1,YDR017C,pKC1 Suppressor,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|SonicParanoid|Ensembl Compara,6,9
 IP6K3,inositol hexakisphosphate kinase 3,117283,606993,ARG82,YDR173C,ARGinine requiring,,,DiOPT,PANTHER|Ensembl Compara|OrthoFinder,3,9
 IP6K3,inositol hexakisphosphate kinase 3,117283,606993,KCS1,YDR017C,pKC1 Suppressor,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|SonicParanoid|Ensembl Compara,6,9
 IPO5,importin 5,3843,602008,PSE1,YMR308C,Protein Secretion Enhancer,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
+ITPA,inosine triphosphatase (nucleoside triphosphate pyrophosphatase),3704,147520,HAM1,YJR069C,6-n-HydroxylAMinopurine sensitive,613850,INOSINE TRIPHOSPHATASE DEFICIENCY,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
+JAZF1,JAZF zinc finger 1,221895,606246,SFP1,YLR403W,Split Finger Protein,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|Hieranoid|Ensembl Compara,5,9
 KAT7,K(lysine) acetyltransferase 7,11143,609880,SAS2,YMR127C,Something About Silencing,,,DiOPT,InParanoid|Ensembl Compara,2,9
+KCNAB1,"potassium channel, voltage gated subfamily A regulatory beta subunit 1",7881,601141,,YPL088W,,,,DiOPT,InParanoid|OrthoInspector|SonicParanoid|Ensembl Compara,4,9
+KCNAB2,"potassium channel, voltage gated subfamily A regulatory beta subunit 2",8514,601142,,YPL088W,,,,DiOPT,InParanoid|OrthoInspector|SonicParanoid,3,9
 KDM2B,lysine (K)-specific demethylase 2B,84678,609078,JHD1,YER051W,JmjC domain-containing Histone Demethylase,,,DiOPT,OrthoInspector|PhylomeDB|OrthoFinder|SonicParanoid|Ensembl Compara,5,9
+KIF18A,kinesin family member 18A,81930,611271,KIP3,YGL216W,KInesin related Protein,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|SonicParanoid|Ensembl Compara,6,9
 KIF5B,kinesin family member 5B,3799,602809,SMY1,YKL079W,Suppressor of MYo2-66,,,DiOPT,Ensembl Compara|PANTHER,2,9
 KIFC1,kinesin family member C1,3833,603763,KAR3,YPR141C,KARyogamy,,,DiOPT,OrthoInspector|OrthoFinder|InParanoid|Hieranoid|SonicParanoid,5,9
 KPNA6,karyopherin alpha 6 (importin alpha 7),23633,610563,SRP1,YNL189W,Suppressor of Rna Polymerase I,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 LAGE3,"L antigen family, member 3",8270,300060,PCC1,YKR095W-A,Polarized growth Chromatin-associated Controller,,,DiOPT,PhylomeDB|PANTHER|OrthoFinder,3,9
 LCP1,lymphocyte cytosolic protein 1 (L-plastin),3936,153430,SAC6,YDR129C,Suppressor of ACtin,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,8,9
+LEPROT,leptin receptor overlapping transcript,54741,613461,VPS55,YJR044C,Vacuolar Protein Sorting,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|Ensembl Compara,7,9
 LEPROTL1,leptin receptor overlapping transcript-like 1,23484,607338,VPS55,YJR044C,Vacuolar Protein Sorting,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|Ensembl Compara,8,9
 LIPJ,"lipase, family member J",142910,613921,TGL1,YKL140W,TriGlyceride Lipase,,,DiOPT,OrthoInspector|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,7,9
 LLGL1,lethal giant larvae homolog 1 (Drosophila),3996,600966,SRO77,YBL106C,Suppressor of rho3,,,DiOPT,PhylomeDB|PANTHER|OrthoFinder|Hieranoid|SonicParanoid|Ensembl Compara,6,9
+LPIN1,lipin 1,23175,605518,PAH1,YMR165C,Phosphatidic Acid phosphoHydrolase,268200,"MYOGLOBINURIA, ACUTE RECURRENT, AUTOSOMAL RECESSIVE",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,8,9
 LPIN3,lipin 3,64900,605520,PAH1,YMR165C,Phosphatidic Acid phosphoHydrolase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,8,9
 LSM1,"LSM1 homolog, mRNA degradation associated",27257,607281,LSM1,YJL124C,Like SM,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,8,9
 LSM2,"LSM2 homolog, U6 small nuclear RNA and mRNA degradation associated",57819,607282,LSM2,YBL026W,Like SM,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
@@ -450,6 +501,7 @@ MAGEA10,melanoma antigen family A10,4109,300343,NSE3,YDR288W,Non SMC Element,,,D
 MAGEB10,melanoma antigen family B10,139422,300761,NSE3,YDR288W,Non SMC Element,,,DiOPT,InParanoid|Hieranoid|PANTHER,3,9
 MAK,male germ cell-associated kinase,4117,154235,IME2,YJL106W,Inducer of MEiosis,614181,RETINITIS PIGMENTOSA 62; RP62,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|SonicParanoid|Ensembl Compara,6,9
 MAN2C1,"mannosidase, alpha, class 2C, member 1",4123,154580,AMS1,YGL156W,Alpha-MannoSidase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
+MAP4K5,mitogen-activated protein kinase kinase kinase kinase 5,11183,604923,CDC15,YAR019C,Cell Division Cycle,,,DiOPT,PhylomeDB|Ensembl Compara,2,9
 MAPK1,mitogen-activated protein kinase 1,5594,176948,FUS3,YBL016W,cell FUSion,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 MAPK1,mitogen-activated protein kinase 1,5594,176948,KSS1,YGR040W,Kinase Suppressor of Sst2 mutations,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,8,9
 MAPRE1,"microtubule-associated protein, RP/EB family, member 1",22919,603108,BIM1,YER016W,BInding to Microtubules,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
@@ -460,7 +512,9 @@ MARS2,"methionyl-tRNA synthetase 2, mitochondrial",92935,609728,MSM1,YGR171C,"Mi
 MAST1,microtubule associated serine/threonine kinase 1,22983,612256,RIM15,YFL033C,Regulator of IME2,,,DiOPT,Hieranoid|PANTHER,2,9
 MAT1A,"methionine adenosyltransferase I, alpha",4143,610550,SAM1,YLR180W,S-AdenosylMethionine requiring,250850,METHIONINE ADENOSYLTRANSFERASE DEFICIENCY,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 MAT1A,"methionine adenosyltransferase I, alpha",4143,610550,SAM2,YDR502C,S-AdenosylMethionine requiring,250850,METHIONINE ADENOSYLTRANSFERASE DEFICIENCY,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
+MCM10,minichromosome maintenance 10 replication initiation factor,55388,609357,MCM10,YIL150C,MiniChromosome Maintenance,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|Ensembl Compara,5,9
 MCM2,minichromosome maintenance complex component 2,4171,116945,MCM2,YBL023C,MiniChromosome Maintenance,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
+MCM4,minichromosome maintenance complex component 4,4173,602638,MCM4,YPR019W,MiniChromosome Maintenance,609981,NATURAL KILLER CELL AND GLUCOCORTICOID DEFICIENCY WITH DNA REPAIR DEFECT; NKGCD,DiOPT,OrthoInspector|PhylomeDB|PANTHER|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,8,9
 MCM6,minichromosome maintenance complex component 6,4175,601806,MCM6,YGL201C,MiniChromosome Maintenance,223100,"LACTOSE INTOLERANCE, ADULT TYPE",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 MCM7,minichromosome maintenance complex component 7,4176,600592,MCM7,YBR202W,MiniChromosome Maintenance,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,8,9
 MCTS1,malignant T cell amplified sequence 1,28985,300587,TMA20,YER007C-A,Translation Machinery Associated,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,8,9
@@ -480,6 +534,7 @@ METTL1,methyltransferase like 1,4234,604466,TRM8,YDL201W,Transfer RNA Methyltran
 MLH3,mutL homolog 3,27030,604395,MLH3,YPL164C,MutL Homolog,614385,"COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 7; HNPCC7",DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,7,9
 MLH3,mutL homolog 3,27030,604395,MLH3,YPL164C,MutL Homolog,114500,COLORECTAL CANCER; CRC,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,7,9
 MLH3,mutL homolog 3,27030,604395,MLH3,YPL164C,MutL Homolog,608089,ENDOMETRIAL CANCER,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,7,9
+MND1,meiotic nuclear divisions 1,84057,611422,MND1,YGL183C,Meiotic Nuclear Divisions,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|Ensembl Compara,8,9
 MOB1A,MOB kinase activator 1A,55233,609281,MOB1,YIL106W,Mps One Binder,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,7,9
 MOB1B,MOB kinase activator 1B,92597,609282,MOB1,YIL106W,Mps One Binder,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|SonicParanoid,6,9
 MOGAT1,monoacylglycerol O-acyltransferase 1,116255,610268,DGA1,YOR245C,DiacylGlycerol Acyltransferase,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,8,9
@@ -490,7 +545,9 @@ MRPL13,mitochondrial ribosomal protein L13,28998,610200,MRPL23,YOR150W,"Mitochon
 MRPL15,mitochondrial ribosomal protein L15,29088,611828,MRPL10,YNL284C,"Mitochondrial Ribosomal Protein, Large subunit",,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|Ensembl Compara,8,9
 MRPL17,mitochondrial ribosomal protein L17,63875,611830,MRPL8,YJL063C,"Mitochondrial Ribosomal Protein, Large subunit",,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|InParanoid|Hieranoid|Ensembl Compara,6,9
 MRPL19,mitochondrial ribosomal protein L19,9801,611832,IMG1,YCR046C,Integrity of Mitochondrial Genome,,,DiOPT,Hieranoid|PANTHER|OrthoFinder,3,9
+MRPL2,mitochondrial ribosomal protein L2,51069,611822,RML2,YEL050C,Ribosomal Mitochondrial Large,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|SonicParanoid,6,9
 MRPL27,mitochondrial ribosomal protein L27,51264,611837,MRP7,YNL005C,Mitochondrial Ribosomal Protein,,,DiOPT,OrthoInspector|SonicParanoid|PANTHER|OrthoFinder,4,9
+MRPL28,mitochondrial ribosomal protein L28,10573,604853,MRPL24,YMR193W,"Mitochondrial Ribosomal Protein, Large subunit",,,DiOPT,Ensembl Compara|PANTHER,2,9
 MRPL36,mitochondrial ribosomal protein L36,64979,611842,RTC6,YPL183W-A,Restriction of Telomere Capping,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|SonicParanoid,6,9
 MRPL41,mitochondrial ribosomal protein L41,64975,611846,MRPL27,YBR282W,"Mitochondrial Ribosomal Protein, Large subunit",,,DiOPT,Hieranoid|PANTHER|OrthoFinder,3,9
 MRPL44,mitochondrial ribosomal protein L44,65080,611849,MRPL3,YMR024W,"Mitochondrial Ribosomal Protein, Large subunit",615395,COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 16; COXPD16,DiOPT,InParanoid|Hieranoid|OrthoFinder,3,9
@@ -498,6 +555,7 @@ MRPL47,mitochondrial ribosomal protein L47,57129,611852,MRPL4,YLR439W,"Mitochond
 MRPS35,mitochondrial ribosomal protein S35,60488,611995,RSM24,YDR175C,Ribosomal Small subunit of Mitochondria,,,DiOPT,Ensembl Compara|PANTHER,2,9
 MRPS5,mitochondrial ribosomal protein S5,64969,611972,MRPS5,YBR251W,"Mitochondrial Ribosomal Protein, Small subunit",,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|Ensembl Compara,5,9
 MRPS6,mitochondrial ribosomal protein S6,64968,611973,MRP17,YKL003C,Mitochondrial Ribosomal Protein,,,DiOPT,PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid,5,9
+MRPS7,mitochondrial ribosomal protein S7,51081,611974,RSM7,YJR113C,Ribosomal Small subunit of Mitochondria,,,DiOPT,Ensembl Compara|PANTHER,2,9
 MSH2,mutS homolog 2,4436,609309,MSH2,YOL090W,MutS Homolog,276300,MISMATCH REPAIR CANCER SYNDROME; MMRCS,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 MSH2,mutS homolog 2,4436,609309,MSH2,YOL090W,MutS Homolog,158320,MUIR-TORRE SYNDROME; MRTES,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 MSH2,mutS homolog 2,4436,609309,MSH2,YOL090W,MutS Homolog,120435,LYNCH SYNDROME I,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
@@ -505,6 +563,14 @@ MTHFD1,"methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 1, methenyltet
 MTHFD1,"methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 1, methenyltetrahydrofolate cyclohydrolase, formyltetrahydrofolate synthetase",4522,172460,MIS1,YBR084W,MItochondrial C1-tetrahydrofolate Synthase,601634,"NEURAL TUBE DEFECTS, FOLATE-SENSITIVE; NTDFS",DiOPT,OrthoInspector|PhylomeDB|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,8,9
 MTHFD1L,methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 1-like,25902,611427,ADE3,YGR204W,ADEnine requiring,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 MTHFD1L,methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 1-like,25902,611427,MIS1,YBR084W,MItochondrial C1-tetrahydrofolate Synthase,,,DiOPT,OrthoInspector|PhylomeDB|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,8,9
+MTHFR,methylenetetrahydrofolate reductase (NAD(P)H),4524,607093,MET12,YPL023C,METhionine requiring,601634,"NEURAL TUBE DEFECTS, FOLATE-SENSITIVE; NTDFS",DiOPT,PhylomeDB|PANTHER|Ensembl Compara|OrthoFinder,4,9
+MTHFR,methylenetetrahydrofolate reductase (NAD(P)H),4524,607093,MET12,YPL023C,METhionine requiring,236250,"HOMOCYSTINURIA DUE TO DEFICIENCY OF N(5,10)-METHYLENETETRAHYDROFOLATE REDUCTASE ACTIVITY",DiOPT,PhylomeDB|PANTHER|Ensembl Compara|OrthoFinder,4,9
+MTHFR,methylenetetrahydrofolate reductase (NAD(P)H),4524,607093,MET12,YPL023C,METhionine requiring,181500,SCHIZOPHRENIA; SCZD,DiOPT,PhylomeDB|PANTHER|Ensembl Compara|OrthoFinder,4,9
+MTHFR,methylenetetrahydrofolate reductase (NAD(P)H),4524,607093,MET12,YPL023C,METhionine requiring,188050,THROMBOPHILIA DUE TO THROMBIN DEFECT; THPH1,DiOPT,PhylomeDB|PANTHER|Ensembl Compara|OrthoFinder,4,9
+MTHFR,methylenetetrahydrofolate reductase (NAD(P)H),4524,607093,MET13,YGL125W,METhionine requiring,601634,"NEURAL TUBE DEFECTS, FOLATE-SENSITIVE; NTDFS",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
+MTHFR,methylenetetrahydrofolate reductase (NAD(P)H),4524,607093,MET13,YGL125W,METhionine requiring,236250,"HOMOCYSTINURIA DUE TO DEFICIENCY OF N(5,10)-METHYLENETETRAHYDROFOLATE REDUCTASE ACTIVITY",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
+MTHFR,methylenetetrahydrofolate reductase (NAD(P)H),4524,607093,MET13,YGL125W,METhionine requiring,181500,SCHIZOPHRENIA; SCZD,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
+MTHFR,methylenetetrahydrofolate reductase (NAD(P)H),4524,607093,MET13,YGL125W,METhionine requiring,188050,THROMBOPHILIA DUE TO THROMBIN DEFECT; THPH1,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 MTMR2,myotubularin related protein 2,8898,603557,YMR1,YJR110W,Yeast Myotubularin Related,601382,"CHARCOT-MARIE-TOOTH DISEASE, TYPE 4B1; CMT4B1",DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|SonicParanoid|Ensembl Compara,6,9
 MTMR3,myotubularin related protein 3,8897,603558,YMR1,YJR110W,Yeast Myotubularin Related,,,DiOPT,OrthoInspector|PANTHER|Ensembl Compara|OrthoFinder,4,9
 MTMR4,myotubularin related protein 4,9110,603559,YMR1,YJR110W,Yeast Myotubularin Related,,,DiOPT,OrthoInspector|PANTHER|Ensembl Compara|OrthoFinder,4,9
@@ -528,12 +594,16 @@ NCOR1,nuclear receptor corepressor 1,9611,600849,SNT1,YCR033W,SaNT domains,,,DiO
 NDC1,NDC1 transmembrane nucleoporin,55706,610115,NDC1,YML031W,Nuclear Division Cycle,,,DiOPT,Hieranoid|PANTHER,2,9
 NDNL2,"necdin-like 2, SMC5-SMC6 complex component",56160,608243,NSE3,YDR288W,Non SMC Element,,,DiOPT,InParanoid|Hieranoid|PANTHER,3,9
 NEDD4,"neural precursor cell expressed, developmentally down-regulated 4, E3 ubiquitin protein ligase",4734,602278,RSP5,YER125W,Reverses Spt- Phenotype,,,DiOPT,OrthoInspector|PANTHER|InParanoid|SonicParanoid|Ensembl Compara,5,9
+NEDD4L,"neural precursor cell expressed, developmentally down-regulated 4-like, E3 ubiquitin protein ligase",23327,606384,RSP5,YER125W,Reverses Spt- Phenotype,,,DiOPT,OrthoInspector|PANTHER|InParanoid|SonicParanoid|Ensembl Compara,5,9
 NFX1,"nuclear transcription factor, X-box binding 1",4799,603255,FAP1,YNL023C,FKBP12-Associated Protein,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 NFYC,"nuclear transcription factor Y, gamma",4802,605344,HAP5,YOR358W,Heme Activator Protein,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|SonicParanoid|Ensembl Compara,6,9
 NIFK,nucleolar protein interacting with the FHA domain of MKI67,84365,611970,NOP15,YNL110C,NucleOlar Protein,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|SonicParanoid,7,9
 NME1,NME/NM23 nucleoside diphosphate kinase 1,4830,156490,YNK1,YKL067W,Yeast Nucleoside diphosphate Kinase,256700,"NEUROBLASTOMA, SUSCEPTIBILITY TO NEUROBLASTOMA, SUSCEPTIBILITY TO, 1, INCLUDED; NBLST1, INCLUDED",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,8,9
 NME2,NME/NM23 nucleoside diphosphate kinase 2,4831,156491,YNK1,YKL067W,Yeast Nucleoside diphosphate Kinase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 NOP10,NOP10 ribonucleoprotein,55505,606471,NOP10,YHR072W-A,NucleOlar Protein,224230,"DYSKERATOSIS CONGENITA, AUTOSOMAL RECESSIVE 1; DKCB1",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
+NOP14,NOP14 nucleolar protein,8602,611526,NOP14,YDL148C,NucleOlar Protein,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|Ensembl Compara,8,9
+NPRL3,"NPR3-like, GATOR1 complex subunit",8131,600928,NPR3,YHL023C,Nitrogen Permease Regulator,,,DiOPT,Hieranoid|PANTHER|Ensembl Compara|OrthoFinder,4,9
+NSF,N-ethylmaleimide-sensitive factor,4905,601633,SEC18,YBR080C,SECretory,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 NSFL1C,NSFL1 (p97) cofactor (p47),55968,606610,SHP1,YBL058W,Suppressor of High-copy PP1,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,8,9
 NUDT4,nudix (nucleoside diphosphate linked moiety X)-type motif 4,11163,609229,DDP1,YOR163W,Diadenosine and Diphosphoinositol Polyphosphate phosphohydrolase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|Hieranoid|SonicParanoid|Ensembl Compara,7,9
 NUDT5,nudix (nucleoside diphosphate linked moiety X)-type motif 5,11164,609230,YSA1,YBR111C,,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,8,9
@@ -564,7 +634,11 @@ OVCA2,ovarian tumor suppressor candidate 2,124641,607896,FSH3,YOR280C,Family of 
 PAK1IP1,PAK1 interacting protein 1,55003,607811,MAK11,YKL021C,MAintenance of Killer,,,DiOPT,OrthoInspector|PhylomeDB|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,7,9
 PAK2,p21 protein (Cdc42/Rac)-activated kinase 2,5062,605022,SKM1,YOL113W,STE20/PAK homologous Kinase related to Morphogenesis,,,DiOPT,Hieranoid|PhylomeDB|PANTHER|OMA,4,9
 PAK2,p21 protein (Cdc42/Rac)-activated kinase 2,5062,605022,STE20,YHL007C,STErile,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|SonicParanoid,6,9
+PAPD7,PAP associated domain containing 7,11044,605198,PAP2,YOL115W,Poly(A) Polymerase,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,7,9
+PAPD7,PAP associated domain containing 7,11044,605198,TRF5,YNL299W,Topoisomerase one-Related Function,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,7,9
 PCBP1,poly(rC) binding protein 1,5093,601209,PBP2,YBR233W,Pbp1p Binding Protein,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|Ensembl Compara,7,9
+PCBP4,poly(rC) binding protein 4,57060,608503,HEK2,YBL032W,HEterogeneous nuclear rnp K-like gene,,,DiOPT,PhylomeDB|PANTHER|OrthoFinder,3,9
+PCBP4,poly(rC) binding protein 4,57060,608503,PBP2,YBR233W,Pbp1p Binding Protein,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|Ensembl Compara,8,9
 PCNA,proliferating cell nuclear antigen,5111,176740,POL30,YBR088C,POLymerase,615919,ATAXIA-TELANGIECTASIA-LIKE DISORDER 2; ATLD2,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 PCSK1,proprotein convertase subtilisin/kexin type 1,5122,162150,KEX2,YNL238W,Killer EXpression defective,612362,BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 12; BMIQ12,DiOPT,Ensembl Compara|OrthoInspector|PANTHER,3,9
 PCSK1,proprotein convertase subtilisin/kexin type 1,5122,162150,KEX2,YNL238W,Killer EXpression defective,600955,PROPROTEIN CONVERTASE 1/3 DEFICIENCY,DiOPT,Ensembl Compara|OrthoInspector|PANTHER,3,9
@@ -578,6 +652,7 @@ PDE12,phosphodiesterase 12,201626,616519,NGL2,YMR285C,,,,DiOPT,InParanoid|SonicP
 PDE12,phosphodiesterase 12,201626,616519,NGL3,YML118W,,,,DiOPT,InParanoid|SonicParanoid|OrthoFinder,3,9
 PDS5A,PDS5 cohesin associated factor A,23244,613200,PDS5,YMR076C,Precocious Dissociation of Sisters,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 PEF1,penta-EF-hand domain containing 1,553115,610033,PEF1,YGR058W,Penta-EF-Hand protein,,,DiOPT,PANTHER|OrthoFinder|InParanoid|Hieranoid|SonicParanoid,5,9
+PEMT,phosphatidylethanolamine N-methyltransferase,10400,602391,OPI3,YJR073C,OverProducer of Inositol,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 PEPD,peptidase D,5184,613230,,YFR006W,,170100,PROLIDASE DEFICIENCY,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 PEX14,peroxisomal biogenesis factor 14,5195,601791,PEX14,YGL153W,PEroXisome related,614887,"PEROXISOME BIOGENESIS DISORDER 13A (ZELLWEGER); PBD13A PEROXISOME BIOGENESIS DISORDER, COMPLEMENTATION GROUP K, INCLUDED; CGK, INCLUDED",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|Ensembl Compara,7,9
 PEX3,peroxisomal biogenesis factor 3,8504,603164,PEX3,YDR329C,PEroXin,614882,"PEROXISOME BIOGENESIS DISORDER 10A (ZELLWEGER); PBD10A PEROXISOME BIOGENESIS DISORDER, COMPLEMENTATION GROUP 12, INCLUDED; CG12, INCLUDED",DiOPT,PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid,5,9
@@ -608,6 +683,8 @@ PIGL,phosphatidylinositol glycan anchor biosynthesis class L,9487,605947,GPI12,Y
 PIGN,phosphatidylinositol glycan anchor biosynthesis class N,23556,606097,MCD4,YKL165C,Morphogenesis Checkpoint Dependent,614080,MULTIPLE CONGENITAL ANOMALIES-HYPOTONIA-SEIZURES SYNDROME 1; MCAHS1,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 PIGU,phosphatidylinositol glycan anchor biosynthesis class U,128869,608528,GAB1,YLR459W,GPI and Actin Bar,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 PIGV,phosphatidylinositol glycan anchor biosynthesis class V,55650,610274,GPI18,YBR004C,GlycosylPhosphatidylInositol,239300,HYPERPHOSPHATASIA WITH MENTAL RETARDATION SYNDROME 1; HPMRS1,DiOPT,PANTHER|OrthoFinder|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,6,9
+PIH1D1,PIH1 domain containing 1,55011,611480,PIH1,YHR034C,Protein Interacting with Hsp90,,,DiOPT,OrthoInspector|SonicParanoid|OrthoFinder,3,9
+PIKFYVE,"phosphoinositide kinase, FYVE finger containing",200576,609414,FAB1,YFR019W,Forms Aploid and Binucleate cells,121850,"CORNEAL DYSTROPHY, FLECK",DiOPT,OrthoInspector|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,7,9
 PKN2,protein kinase N2,5586,602549,PKC1,YBL105C,Protein Kinase C,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder,3,9
 PLA2G4D,"phospholipase A2, group IVD (cytosolic)",283748,612864,PLB1,YMR008C,PhosphoLipase B,,,DiOPT,InParanoid|SonicParanoid|PANTHER,3,9
 PLA2G4D,"phospholipase A2, group IVD (cytosolic)",283748,612864,PLB2,YMR006C,PhosphoLipase B,,,DiOPT,InParanoid|SonicParanoid|PANTHER,3,9
@@ -617,6 +694,8 @@ PLAA,phospholipase A2-activating protein,9373,603873,DOA1,YKL213C,Degradation Of
 PLD1,"phospholipase D1, phosphatidylcholine-specific",5337,602382,SPO14,YKR031C,SPOrulation,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|SonicParanoid|Ensembl Compara,6,9
 PLK2,polo-like kinase 2,10769,607023,CDC5,YMR001C,Cell Division Cycle,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|SonicParanoid,6,9
 PLSCR4,phospholipid scramblase 4,57088,607612,AIM25,YJR100C,Altered Inheritance of Mitochondria,,,DiOPT,PANTHER|OrthoFinder|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,6,9
+PNKD,paroxysmal nonkinesigenic dyskinesia,25953,609023,GLO2,YDR272W,GLyOxalase,118800,PAROXYSMAL NONKINESIGENIC DYSKINESIA 1; PNKD1,DiOPT,OrthoInspector|OrthoFinder|InParanoid|SonicParanoid|Ensembl Compara,5,9
+PNKD,paroxysmal nonkinesigenic dyskinesia,25953,609023,GLO4,YOR040W,GLyOxalase,118800,PAROXYSMAL NONKINESIGENIC DYSKINESIA 1; PNKD1,DiOPT,OrthoInspector|OrthoFinder|InParanoid|SonicParanoid|Ensembl Compara,5,9
 PNPLA7,patatin-like phospholipase domain containing 7,375775,612122,NTE1,YML059C,Neuropathy Target Esterase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|SonicParanoid,7,9
 POLE,"polymerase (DNA directed), epsilon, catalytic subunit",5426,174762,POL2,YNL262W,POLymerase,615139,"FACIAL DYSMORPHISM, IMMUNODEFICIENCY, LIVEDO, AND SHORT STATURE; FILS",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 POLE,"polymerase (DNA directed), epsilon, catalytic subunit",5426,174762,POL2,YNL262W,POLymerase,615083,"COLORECTAL CANCER, SUSCEPTIBILITY TO, 12; CRCS12",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
@@ -628,6 +707,7 @@ POMP,proteasome maturation protein,51371,613386,UMP1,YBR173C,Ubiquitin-Mediated 
 POP4,"POP4 homolog, ribonuclease P/MRP subunit",10775,606114,POP4,YBR257W,Processing Of Precursor RNAs,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|Ensembl Compara,7,9
 POSTN,"periostin, osteoblast specific factor",10631,608777,,YLR001C,,,,DiOPT,Hieranoid|SonicParanoid|PANTHER,3,9
 POU2F1,POU class 2 homeobox 1,5451,164175,YOX1,YML027W,Yeast homeobOX,,,DiOPT,Hieranoid|OrthoFinder,2,9
+POU3F4,POU class 3 homeobox 4,5456,300039,YOX1,YML027W,Yeast homeobOX,304400,"DEAFNESS, X-LINKED 2; DFNX2",DiOPT,Hieranoid|OrthoFinder,2,9
 PPA1,pyrophosphatase (inorganic) 1,5464,179030,IPP1,YBR011C,Inorganic PyroPhosphatase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,8,9
 PPA1,pyrophosphatase (inorganic) 1,5464,179030,PPA2,YMR267W,PyroPhosphatAse,,,DiOPT,Ensembl Compara|PhylomeDB|PANTHER|OrthoFinder,4,9
 PPIA,peptidylprolyl isomerase A (cyclophilin A),5478,123840,CPR1,YDR155C,Cyclosporin A-sensitive Proline Rotamase,,,DiOPT,OrthoInspector|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,6,9
@@ -635,6 +715,9 @@ PPIA,peptidylprolyl isomerase A (cyclophilin A),5478,123840,CPR3,YML078W,Cyclosp
 PPIC,peptidylprolyl isomerase C (cyclophilin C),5480,123842,CPR2,YHR057C,Cyclosporin A-sensitive Proline Rotamase,,,DiOPT,OrthoInspector|PANTHER|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,7,9
 PPIC,peptidylprolyl isomerase C (cyclophilin C),5480,123842,CPR5,YDR304C,Cyclosporin-sensitive Proline Rotamase,,,DiOPT,OrthoInspector|PANTHER|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,7,9
 PPM1K,"protein phosphatase, Mg2+/Mn2+ dependent, 1K",152926,611065,PTC6,YCR079W,Phosphatase Two C,615135,"MAPLE SYRUP URINE DISEASE, MILD VARIANT; MSUDMV",DiOPT,Ensembl Compara|OrthoFinder,2,9
+PPP1R3B,"protein phosphatase 1, regulatory subunit 3B",79660,610541,GAC1,YOR178C,Glycogen ACcumulation,,,DiOPT,PANTHER|Ensembl Compara|OrthoFinder,3,9
+PPP1R3B,"protein phosphatase 1, regulatory subunit 3B",79660,610541,GIP2,YER054C,Glc7-Interacting Protein,,,DiOPT,Ensembl Compara|OrthoInspector|PANTHER|OrthoFinder,4,9
+PPP1R3B,"protein phosphatase 1, regulatory subunit 3B",79660,610541,PIG2,YIL045W,Protein Interacting with Gsy2p,,,DiOPT,Ensembl Compara|OrthoInspector|PANTHER|OrthoFinder,4,9
 PPP2CA,"protein phosphatase 2, catalytic subunit, alpha isozyme",5515,176915,PPH21,YDL134C,Protein PHosphatase,,,DiOPT,OrthoInspector|OrthoFinder|InParanoid|OMA|SonicParanoid,5,9
 PPP2CA,"protein phosphatase 2, catalytic subunit, alpha isozyme",5515,176915,PPH22,YDL188C,Protein PHosphatase,,,DiOPT,OrthoInspector|OrthoFinder|InParanoid|OMA|SonicParanoid,5,9
 PPP2CB,"protein phosphatase 2, catalytic subunit, beta isozyme",5516,176916,PPH21,YDL134C,Protein PHosphatase,,,DiOPT,OrthoInspector|PhylomeDB|OrthoFinder|InParanoid|SonicParanoid,5,9
@@ -646,10 +729,14 @@ PPP6R3,"protein phosphatase 6, regulatory subunit 3",55291,610879,SAP185,YJL098W
 PPP6R3,"protein phosphatase 6, regulatory subunit 3",55291,610879,SAP190,YKR028W,Sit4 Associated Protein,,,DiOPT,PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,7,9
 PPP6R3,"protein phosphatase 6, regulatory subunit 3",55291,610879,SAP4,YGL229C,Sit4 Associated Protein,,,DiOPT,PANTHER|OrthoFinder|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,6,9
 PRDM14,PR domain containing 14,63978,611781,CRZ1,YNL027W,Calcineurin-Responsive Zinc finger,,,DiOPT,Hieranoid|Ensembl Compara,2,9
+PRDX1,peroxiredoxin 1,5052,176763,TSA1,YML028W,Thiol-Specific Antioxidant,,,DiOPT,OrthoInspector|PANTHER|InParanoid|Hieranoid|OMA|SonicParanoid,6,9
+PRDX1,peroxiredoxin 1,5052,176763,TSA2,YDR453C,Thiol-Specific Antioxidant,,,DiOPT,OrthoInspector|PANTHER|InParanoid|Hieranoid|OMA|SonicParanoid,6,9
 PRDX4,peroxiredoxin 4,10549,300927,TSA1,YML028W,Thiol-Specific Antioxidant,,,DiOPT,OrthoInspector|PANTHER|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,6,9
 PRDX4,peroxiredoxin 4,10549,300927,TSA2,YDR453C,Thiol-Specific Antioxidant,,,DiOPT,OrthoInspector|PANTHER|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,6,9
 PREB,prolactin regulatory element binding,10113,606395,SEC12,YNR026C,SECretory,,,DiOPT,Hieranoid|PANTHER,2,9
+PRKAA2,"protein kinase, AMP-activated, alpha 2 catalytic subunit",5563,600497,SNF1,YDR477W,Sucrose NonFermenting,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,8,9
 PRKCA,"protein kinase C, alpha",5578,176960,PKC1,YBL105C,Protein Kinase C,,,DiOPT,PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,7,9
+PRKCD,"protein kinase C, delta",5580,176977,PKC1,YBL105C,Protein Kinase C,615559,"AUTOIMMUNE LYMPHOPROLIFERATIVE SYNDROME, TYPE III; ALPS3",DiOPT,PANTHER|OrthoFinder|InParanoid|Hieranoid|SonicParanoid,5,9
 PRKCE,"protein kinase C, epsilon",5581,176975,PKC1,YBL105C,Protein Kinase C,,,DiOPT,PANTHER|OrthoFinder|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,6,9
 PRKCSH,protein kinase C substrate 80K-H,5589,177060,GTB1,YDR221W,Glucosidase Two Beta-subunit,174050,POLYCYSTIC LIVER DISEASE; PCLD,DiOPT,OrthoInspector|PANTHER|InParanoid|SonicParanoid|Ensembl Compara,5,9
 PRPF3,pre-mRNA processing factor 3,9129,607301,PRP3,YDR473C,Pre-mRNA Processing,601414,RETINITIS PIGMENTOSA 18; RP18,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|Ensembl Compara,7,9
@@ -671,6 +758,7 @@ PSMD10,"proteasome 26S subunit, non-ATPase 10",5716,300880,NAS6,YGR232W,Non-ATPa
 PSMD13,"proteasome 26S subunit, non-ATPase 13",5719,603481,RPN9,YDR427W,Regulatory Particle Non-ATPase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 PSMD14,"proteasome 26S subunit, non-ATPase 14",10213,607173,RPN11,YFR004W,Regulatory Particle Non-ATPase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 PSMD2,"proteasome 26S subunit, non-ATPase 2",5708,606223,RPN1,YHR027C,Regulatory Particle Non-ATPase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,8,9
+PSMD4,"proteasome 26S subunit, non-ATPase 4",5710,601648,RPN10,YHR200W,Regulatory Particle Non-ATPase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 PSMD7,"proteasome 26S subunit, non-ATPase 7",5713,157970,RPN8,YOR261C,Regulatory Particle Non-ATPase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 PTGES3,prostaglandin E synthase 3 (cytosolic),10728,607061,SBA1,YKL117W,increased Sensitivity to Benzoquinone Ansamycins,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|Ensembl Compara,6,9
 PTRH2,peptidyl-tRNA hydrolase 2,51651,608625,PTH2,YBL057C,Peptidyl-Trna Hydrolase,616263,"NEUROLOGIC, ENDOCRINE, AND PANCREATIC DISEASE, MULTISYSTEM, INFANTILE-ONSET; IMNEPD",DiOPT,OrthoInspector|PANTHER|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,6,9
@@ -702,8 +790,10 @@ RAP2B,"RAP2B, member of RAS oncogene family",5912,179541,RSR1,YGR152C,RaS-Relate
 RBBP4,retinoblastoma binding protein 4,5928,602923,HAT2,YEL056W,Histone AcetylTransferase,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,8,9
 RBBP6,retinoblastoma binding protein 6,5930,600938,MPE1,YKL059C,Mutant PCF11 Extragenic suppressor,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder,4,9
 RBBP7,retinoblastoma binding protein 7,5931,300825,HAT2,YEL056W,Histone AcetylTransferase,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,8,9
+RBKS,ribokinase,64080,611132,RBK1,YCR036W,RiBoKinase,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 RBSN,"rabenosyn, RAB effector",64145,609511,PEP7,YDR323C,carboxyPEPtidase Y-deficient,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|SonicParanoid,6,9
 RBX1,"ring-box 1, E3 ubiquitin protein ligase",9978,603814,HRT1,YOL133W,High level expression Reduces Ty3 transposition,,,DiOPT,OrthoInspector|PANTHER|InParanoid|Hieranoid|OMA|SonicParanoid,6,9
+RCL1,RNA terminal phosphate cyclase-like 1,10171,611405,RCL1,YOL010W,Rna 3'-terminal phosphate Cyclase Like,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 REEP5,receptor accessory protein 5,7905,125265,YOP1,YPR028W,YIP One Partner,,,DiOPT,OrthoInspector|PANTHER|InParanoid|Hieranoid|OMA,5,9
 REN,renin,5972,179820,PEP4,YPL154C,carboxyPEPtidase Y-deficient,613092,"HYPERURICEMIC NEPHROPATHY, FAMILIAL JUVENILE, 2; HNFJ2",DiOPT,PANTHER|OrthoFinder|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,6,9
 REN,renin,5972,179820,PEP4,YPL154C,carboxyPEPtidase Y-deficient,267430,RENAL TUBULAR DYSGENESIS; RTD,DiOPT,PANTHER|OrthoFinder|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,6,9
@@ -725,6 +815,8 @@ RNMT,RNA (guanine-7-) methyltransferase,8731,603514,ABD1,YBR236C,,,,DiOPT,OrthoI
 RPA4,"replication protein A4, 30kDa",29935,300767,RFA2,YNL312W,Replication Factor A,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA,7,9
 RPAP2,RNA polymerase II associated protein 2,79871,611476,RTR1,YER139C,Regulator of TRanscription,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder,4,9
 RPAP2,RNA polymerase II associated protein 2,79871,611476,RTR2,YDR066C,Regulator of TRanscription,,,DiOPT,PhylomeDB|Ensembl Compara|OrthoFinder,3,9
+RPL8,ribosomal protein L8,6132,604177,RPL2A,YFR031C-A,Ribosomal Protein of the Large subunit,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
+RPL8,ribosomal protein L8,6132,604177,RPL2B,YIL018W,Ribosomal Protein of the Large subunit,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 RPS27L,ribosomal protein S27-like,51065,612055,RPS27A,YKL156W,Ribosomal Protein of the Small subunit,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 RPS27L,ribosomal protein S27-like,51065,612055,RPS27B,YHR021C,Ribosomal Protein of the Small subunit,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 RPS6KA1,"ribosomal protein S6 kinase, 90kDa, polypeptide 1",6195,601684,YPK3,YBR028C,,,,DiOPT,PhylomeDB|Ensembl Compara,2,9
@@ -742,6 +834,7 @@ RRP36,ribosomal RNA processing 36,88745,613475,RRP36,YOR287C,Ribosomal RNA Proce
 RTF1,"RTF1 homolog, Paf1/RNA polymerase II complex component",23168,611633,RTF1,YGL244W,Restores TBP Function,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA,7,9
 RUVBL2,RuvB-like AAA ATPase 2,10856,604788,RVB2,YPL235W,RuVB-like,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 SAE1,SUMO1 activating enzyme subunit 1,10055,613294,AOS1,YPR180W,Activation Of Smt3p,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,7,9
+SAMM50,SAMM50 sorting and assembly machinery component,25813,612058,SAM50,YNL026W,Sorting and Assembly Machinery,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|Hieranoid|SonicParanoid|Ensembl Compara,7,9
 SCD5,stearoyl-CoA desaturase 5,79966,608370,OLE1,YGL055W,OLEic acid requiring,,,DiOPT,OrthoInspector|OrthoFinder|InParanoid|Hieranoid|SonicParanoid,5,9
 SCN2A,"sodium channel, voltage gated, type II alpha subunit",6326,182390,CCH1,YGR217W,Calcium Channel Homolog,613721,"EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 11; EIEE11",DiOPT,InParanoid|Hieranoid|SonicParanoid,3,9
 SCN2A,"sodium channel, voltage gated, type II alpha subunit",6326,182390,CCH1,YGR217W,Calcium Channel Homolog,607745,"SEIZURES, BENIGN FAMILIAL INFANTILE, 3; BFIS3",DiOPT,InParanoid|Hieranoid|SonicParanoid,3,9
@@ -766,6 +859,7 @@ SEC24A,"SEC24 homolog A, COPII coat complex component",10802,607183,SEC24,YIL109
 SEC24A,"SEC24 homolog A, COPII coat complex component",10802,607183,SFB2,YNL049C,Sed Five Binding,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 SEC24C,"SEC24 homolog C, COPII coat complex component",9632,607185,SFB3,YHR098C,Sed Five Binding,,,DiOPT,Hieranoid|PhylomeDB|PANTHER|OrthoFinder,4,9
 SEC24D,"SEC24 homolog D, COPII coat complex component",9871,607186,SFB3,YHR098C,Sed Five Binding,616294,COLE-CARPENTER SYNDROME 2; CLCRP2,DiOPT,PhylomeDB|PANTHER|OrthoFinder|Hieranoid|OMA|Ensembl Compara,6,9
+SEC31A,"SEC31 homolog A, COPII coat complex component",22872,610257,SEC31,YDL195W,SECretory,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|Ensembl Compara,8,9
 SEC61A1,Sec61 translocon alpha 1 subunit,29927,609213,SEC61,YLR378C,SECretory,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 SEC61A1,Sec61 translocon alpha 1 subunit,29927,609213,SSH1,YBR283C,Sec Sixty-one Homolog,,,DiOPT,Ensembl Compara|PhylomeDB|PANTHER,3,9
 SEC62,"SEC62 homolog, preprotein translocation factor",7095,602173,SEC62,YPL094C,SECretory,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|Hieranoid|SonicParanoid|Ensembl Compara,7,9
@@ -787,8 +881,12 @@ SGK3,"serum/glucocorticoid regulated kinase family, member 3",23678,607591,YPK2,
 SGPP1,sphingosine-1-phosphate phosphatase 1,81537,612826,LCB3,YJL134W,Long-Chain Base,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 SGPP1,sphingosine-1-phosphate phosphatase 1,81537,612826,YSR3,YKR053C,Yeast Sphingolipid Resistance,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|Ensembl Compara,7,9
 SHPRH,"SNF2 histone linker PHD RING helicase, E3 ubiquitin protein ligase",257218,608048,IRC20,YLR247C,Increased Recombination Centers,,,DiOPT,Hieranoid|Ensembl Compara|OrthoFinder,3,9
+SIK3,SIK family kinase 3,23387,614776,KIN1,YDR122W,KINase,,,DiOPT,Hieranoid|Ensembl Compara,2,9
+SIK3,SIK family kinase 3,23387,614776,KIN2,YLR096W,KINase,,,DiOPT,Hieranoid|Ensembl Compara,2,9
+SIK3,SIK family kinase 3,23387,614776,PTK1,YKL198C,Putative serine/Threonine protein Kinase,,,DiOPT,PhylomeDB|Ensembl Compara,2,9
 SIRT1,sirtuin 1,23411,604479,HST1,YOL068C,Homolog of SIR Two (SIR2),,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|SonicParanoid|Ensembl Compara,6,9
 SIRT1,sirtuin 1,23411,604479,SIR2,YDL042C,Silent Information Regulator,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|SonicParanoid|Ensembl Compara,6,9
+SKIV2L,"SKI2 homolog, superkiller viralicidic activity 2-like",6499,600478,SKI2,YLR398C,SuperKIller,614602,TRICHOHEPATOENTERIC SYNDROME 2; THES2,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 SKP1,S-phase kinase-associated protein 1,6500,601434,SKP1,YDR328C,Suppressor of Kinetochore Protein mutant,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,8,9
 SLC11A2,"solute carrier family 11 (proton-coupled divalent metal ion transporter), member 2",4891,600523,SMF1,YOL122C,Suppressor of Mitochondria import Function,206100,"ANEMIA, HYPOCHROMIC MICROCYTIC, WITH IRON OVERLOAD 1; AHMIO1",DiOPT,OrthoInspector|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,5,9
 SLC11A2,"solute carrier family 11 (proton-coupled divalent metal ion transporter), member 2",4891,600523,SMF2,YHR050W,Suppressor of Mitochondria import Function,206100,"ANEMIA, HYPOCHROMIC MICROCYTIC, WITH IRON OVERLOAD 1; AHMIO1",DiOPT,OrthoInspector|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,5,9
@@ -825,6 +923,7 @@ SLC17A5,"solute carrier family 17 (acidic sugar transporter), member 5",26503,60
 SLC20A2,"solute carrier family 20 (phosphate transporter), member 2",6575,158378,PHO89,YBR296C,PHOsphate metabolism,213600,"BASAL GANGLIA CALCIFICATION, IDIOPATHIC, 1; IBGC1",DiOPT,OrthoInspector|PhylomeDB|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,8,9
 SLC22A10,"solute carrier family 22, member 10",387775,607580,GIT1,YCR098C,GlycerophosphoInosiTol,,,DiOPT,Hieranoid|Ensembl Compara,2,9
 SLC22A4,"solute carrier family 22 (organic cation/zwitterion transporter), member 4",6583,604190,GIT1,YCR098C,GlycerophosphoInosiTol,180300,RHEUMATOID ARTHRITIS; RA,DiOPT,Hieranoid|Ensembl Compara,2,9
+SLC25A16,"solute carrier family 25 (mitochondrial carrier), member 16",8034,139080,LEU5,YHR002W,LEUcine biosynthesis,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|OMA|SonicParanoid|Ensembl Compara,8,9
 SLC25A2,solute carrier family 25 (mitochondrial carrier; ornithine transporter) member 2,83884,608157,ORT1,YOR130C,ORnithine Transporter,,,DiOPT,PANTHER|InParanoid|OMA|SonicParanoid|Ensembl Compara,5,9
 SLC25A20,"solute carrier family 25 (carnitine/acylcarnitine translocase), member 20",788,613698,CRC1,YOR100C,CaRnitine Carrier,212138,CARNITINE-ACYLCARNITINE TRANSLOCASE DEFICIENCY; CACTD,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,8,9
 SLC25A21,"solute carrier family 25 (mitochondrial oxoadipate carrier), member 21",89874,607571,ODC1,YPL134C,OxoDicarboxylate Carrier,,,DiOPT,OrthoInspector|PhylomeDB|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,8,9
@@ -845,7 +944,24 @@ SLC26A2,"solute carrier family 26 (anion exchanger), member 2",1836,606718,,YPR0
 SLC27A1,"solute carrier family 27 (fatty acid transporter), member 1",376497,600691,FAT1,YBR041W,FATty acid transporter,,,DiOPT,OrthoInspector|PhylomeDB|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,7,9
 SLC27A4,"solute carrier family 27 (fatty acid transporter), member 4",10999,604194,FAT1,YBR041W,FATty acid transporter,608649,ICHTHYOSIS PREMATURITY SYNDROME; IPS,DiOPT,OrthoInspector|PhylomeDB|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,7,9
 SLC27A5,"solute carrier family 27 (fatty acid transporter), member 5",10998,603314,FAT1,YBR041W,FATty acid transporter,,,DiOPT,OrthoInspector|PhylomeDB|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,7,9
+SLC2A1,"solute carrier family 2 (facilitated glucose transporter), member 1",6513,138140,VPS73,YGL104C,Vacuolar Protein Sorting,601042,DYSTONIA 9; DYT9,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,7,9
+SLC2A1,"solute carrier family 2 (facilitated glucose transporter), member 1",6513,138140,VPS73,YGL104C,Vacuolar Protein Sorting,606777,GLUT1 DEFICIENCY SYNDROME 1; GLUT1DS1,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,7,9
+SLC2A1,"solute carrier family 2 (facilitated glucose transporter), member 1",6513,138140,VPS73,YGL104C,Vacuolar Protein Sorting,614847,"EPILEPSY, IDIOPATHIC GENERALIZED, SUSCEPTIBILITY TO, 12; EIG12",DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,7,9
+SLC2A1,"solute carrier family 2 (facilitated glucose transporter), member 1",6513,138140,VPS73,YGL104C,Vacuolar Protein Sorting,612126,GLUT1 DEFICIENCY SYNDROME 2; GLUT1DS2,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,7,9
+SLC2A1,"solute carrier family 2 (facilitated glucose transporter), member 1",6513,138140,VVS1,YBR241C,Vacuolar protein Vital for Stress response,601042,DYSTONIA 9; DYT9,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,7,9
+SLC2A1,"solute carrier family 2 (facilitated glucose transporter), member 1",6513,138140,VVS1,YBR241C,Vacuolar protein Vital for Stress response,606777,GLUT1 DEFICIENCY SYNDROME 1; GLUT1DS1,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,7,9
+SLC2A1,"solute carrier family 2 (facilitated glucose transporter), member 1",6513,138140,VVS1,YBR241C,Vacuolar protein Vital for Stress response,614847,"EPILEPSY, IDIOPATHIC GENERALIZED, SUSCEPTIBILITY TO, 12; EIG12",DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,7,9
+SLC2A1,"solute carrier family 2 (facilitated glucose transporter), member 1",6513,138140,VVS1,YBR241C,Vacuolar protein Vital for Stress response,612126,GLUT1 DEFICIENCY SYNDROME 2; GLUT1DS2,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,7,9
+SLC2A1,"solute carrier family 2 (facilitated glucose transporter), member 1",6513,143090,VPS73,YGL104C,Vacuolar Protein Sorting,601042,DYSTONIA 9; DYT9,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,7,9
+SLC2A1,"solute carrier family 2 (facilitated glucose transporter), member 1",6513,143090,VPS73,YGL104C,Vacuolar Protein Sorting,606777,GLUT1 DEFICIENCY SYNDROME 1; GLUT1DS1,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,7,9
+SLC2A1,"solute carrier family 2 (facilitated glucose transporter), member 1",6513,143090,VPS73,YGL104C,Vacuolar Protein Sorting,614847,"EPILEPSY, IDIOPATHIC GENERALIZED, SUSCEPTIBILITY TO, 12; EIG12",DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,7,9
+SLC2A1,"solute carrier family 2 (facilitated glucose transporter), member 1",6513,143090,VPS73,YGL104C,Vacuolar Protein Sorting,612126,GLUT1 DEFICIENCY SYNDROME 2; GLUT1DS2,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,7,9
+SLC2A1,"solute carrier family 2 (facilitated glucose transporter), member 1",6513,143090,VVS1,YBR241C,Vacuolar protein Vital for Stress response,601042,DYSTONIA 9; DYT9,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,7,9
+SLC2A1,"solute carrier family 2 (facilitated glucose transporter), member 1",6513,143090,VVS1,YBR241C,Vacuolar protein Vital for Stress response,606777,GLUT1 DEFICIENCY SYNDROME 1; GLUT1DS1,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,7,9
+SLC2A1,"solute carrier family 2 (facilitated glucose transporter), member 1",6513,143090,VVS1,YBR241C,Vacuolar protein Vital for Stress response,614847,"EPILEPSY, IDIOPATHIC GENERALIZED, SUSCEPTIBILITY TO, 12; EIG12",DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,7,9
+SLC2A1,"solute carrier family 2 (facilitated glucose transporter), member 1",6513,143090,VVS1,YBR241C,Vacuolar protein Vital for Stress response,612126,GLUT1 DEFICIENCY SYNDROME 2; GLUT1DS2,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,7,9
 SLC30A7,"solute carrier family 30 (zinc transporter), member 7",148867,611149,MSC2,YDR205W,Meiotic Sister-Chromatid recombination,,,DiOPT,PANTHER|Ensembl Compara|OrthoFinder,3,9
+SLC32A1,"solute carrier family 32 (GABA vesicular transporter), member 1",140679,616440,AVT1,YJR001W,Amino acid Vacuolar Transport,,,DiOPT,OrthoInspector|PANTHER|Ensembl Compara,3,9
 SLC35B1,"solute carrier family 35, member B1",10237,610790,HUT1,YPL244C,Homolog of UDP-galactose Transporter,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|Ensembl Compara,7,9
 SLC35B2,"solute carrier family 35 (adenosine 3'-phospho 5'-phosphosulfate transporter), member B2",347734,610788,HUT1,YPL244C,Homolog of UDP-galactose Transporter,,,DiOPT,InParanoid|OrthoInspector|SonicParanoid|OrthoFinder,4,9
 SLC36A3,"solute carrier family 36, member 3",285641,608332,AVT3,YKL146W,Amino acid Vacuolar Transport,,,DiOPT,OrthoInspector|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,5,9
@@ -890,16 +1006,20 @@ SMC2,structural maintenance of chromosomes 2,10592,605576,SMC2,YFR031C,Structura
 SMYD2,SET and MYND domain containing 2,56950,610663,SET6,YPL165C,SET domain-containing,,,DiOPT,OrthoInspector|PANTHER|SonicParanoid|Ensembl Compara,4,9
 SNAPC4,"small nuclear RNA activating complex, polypeptide 4, 190kDa",6621,602777,BAS1,YKR099W,BASal,,,DiOPT,OrthoInspector|Ensembl Compara,2,9
 SNRNP70,"small nuclear ribonucleoprotein, U1 70kDa subunit",6625,180740,SNP1,YIL061C,,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,8,9
+SNRPA1,small nuclear ribonucleoprotein polypeptide A',6627,603521,LEA1,YPL213W,Looks Exceptionally like U2A,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid,5,9
 SNRPD1,small nuclear ribonucleoprotein D1 polypeptide 16kDa,6632,601063,SMD1,YGR074W,snRNA Sm binding site protein D1,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|SonicParanoid,7,9
 SNRPD2,small nuclear ribonucleoprotein D2 polypeptide 16.5kDa,6633,601061,SMD2,YLR275W,,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
+SNRPD3,small nuclear ribonucleoprotein D3 polypeptide 18kDa,6634,601062,SMD3,YLR147C,,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 SNX12,sorting nexin 12,29934,300883,SNX3,YOR357C,Sorting NeXin,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,8,9
 SNX3,sorting nexin 3,8724,605930,SNX3,YOR357C,Sorting NeXin,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,8,9
 SNX7,sorting nexin 7,51375,614904,SNX4,YJL036W,Sorting NeXin,,,DiOPT,OrthoInspector|PANTHER|InParanoid|Hieranoid|OMA,5,9
+SOD2,"superoxide dismutase 2, mitochondrial",6648,147460,SOD2,YHR008C,SuperOxide Dismutase,612634,"MICROVASCULAR COMPLICATIONS OF DIABETES, SUSCEPTIBILITY TO, 6; MVCD6",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,8,9
 SORD,sorbitol dehydrogenase,6652,182500,SOR1,YJR159W,,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,7,9
 SORD,sorbitol dehydrogenase,6652,182500,SOR2,YDL246C,,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,8,9
 SORD,sorbitol dehydrogenase,6652,182500,XYL2,YLR070C,,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,7,9
 SOS1,son of sevenless homolog 1 (Drosophila),6654,182530,CDC25,YLR310C,Cell Division Cycle,610733,NOONAN SYNDROME 4; NS4,DiOPT,Ensembl Compara|OrthoInspector|SonicParanoid|PANTHER,4,9
 SOS1,son of sevenless homolog 1 (Drosophila),6654,182530,CDC25,YLR310C,Cell Division Cycle,135300,"FIBROMATOSIS, GINGIVAL, 1; GINGF1",DiOPT,Ensembl Compara|OrthoInspector|SonicParanoid|PANTHER,4,9
+SREBF1,sterol regulatory element binding transcription factor 1,6720,184756,TYE7,YOR344C,Ty1-mediated Expression,,,DiOPT,PhylomeDB|Ensembl Compara|OrthoFinder,3,9
 SRFBP1,serum response factor binding protein 1,153443,610479,BUD22,YMR014W,BUD site selection,,,DiOPT,PANTHER|OrthoFinder,2,9
 SRM,spermidine synthase,6723,182891,SPE3,YPR069C,SPErmidine auxotroph,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 SRP14,signal recognition particle 14kDa (homologous Alu RNA binding protein),6727,600708,SRP14,YDL092W,Signal Recognition Particle,,,DiOPT,PANTHER|OrthoFinder,2,9
@@ -907,6 +1027,7 @@ SRP19,signal recognition particle 19kDa,6728,182175,SEC65,YML105C,SECretory,,,Di
 SRPK1,SRSF protein kinase 1,6732,601939,SKY1,YMR216C,SRPK1-like Kinase in Yeast,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|OMA|SonicParanoid,6,9
 SRSF5,serine/arginine-rich splicing factor 5,6430,600914,NPL3,YDR432W,Nuclear Protein Localization,,,DiOPT,Hieranoid|SonicParanoid|OrthoFinder,3,9
 SSBP1,"single-stranded DNA binding protein 1, mitochondrial",6742,600439,RIM1,YCR028C-A,Replication In Mitochondria,,,DiOPT,PANTHER|OrthoFinder,2,9
+STAG1,stromal antigen 1,10274,604358,IRR1,YIL026C,IRRegular cell behavior,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder,4,9
 STIP1,stress-induced phosphoprotein 1,10963,605063,STI1,YOR027W,STress Inducible,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,8,9
 STK24,serine/threonine kinase 24,8428,604984,KIC1,YHR102W,Kinase that Interacts with Cdc31p,,,DiOPT,OrthoInspector|SonicParanoid|PANTHER,3,9
 STON1,stonin 1,11037,605357,APM2,YHL019C,clathrin Adaptor Protein complex Medium chain,,,DiOPT,Ensembl Compara|PANTHER,2,9
@@ -933,10 +1054,12 @@ TAGLN2,transgelin 2,8407,604634,SCP1,YOR367W,S. cerevisiae CalPonin,,,DiOPT,Orth
 TALDO1,transaldolase 1,6888,602063,NQM1,YGR043C,Non-Quiescent Mutant,606003,TRANSALDOLASE DEFICIENCY,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 TALDO1,transaldolase 1,6888,602063,TAL1,YLR354C,TransALdolase,606003,TRANSALDOLASE DEFICIENCY,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 TAPT1,transmembrane anterior posterior transformation 1,202018,612758,EMP65,YER140W,ER Membrane Protein of 65 kDa,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|Ensembl Compara,7,9
+TARBP1,TAR (HIV-1) RNA binding protein 1,6894,605052,TRM3,YDL112W,Transfer RNA Methyltransferase,,,DiOPT,OrthoInspector|PANTHER|Ensembl Compara|OrthoFinder,4,9
 TARS2,"threonyl-tRNA synthetase 2, mitochondrial (putative)",80222,612805,THS1,YIL078W,THreonyl tRNA Synthetase,615918,COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 21; COXPD21,DiOPT,PhylomeDB|PANTHER|OrthoFinder|Hieranoid|Ensembl Compara,5,9
 TBCB,tubulin folding cofactor B,1155,601303,ALF1,YNL148C,ALpha tubulin Folding,,,DiOPT,InParanoid|Hieranoid|OrthoInspector,3,9
 TCEA3,"transcription elongation factor A (SII), 3",6920,604128,DST1,YGL043W,DNA Strand Transfer,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,8,9
 TELO2,telomere maintenance 2,9894,611140,TEL2,YGR099W,TELomere maintenance,,,DiOPT,Ensembl Compara|Hieranoid|PANTHER|OrthoFinder,4,9
+TERF2IP,"telomeric repeat binding factor 2, interacting protein",54386,605061,RAP1,YNL216W,Repressor/Activator site binding Protein,,,DiOPT,PANTHER|OrthoFinder,2,9
 TFE3,transcription factor binding to IGHM enhancer 3,7030,314310,RTG3,YBL103C,ReTroGrade regulation,300854,"RENAL CELL CARCINOMA, Xp11-ASSOCIATED; RCCX1",DiOPT,PANTHER|Ensembl Compara|OrthoFinder,3,9
 TFEC,transcription factor EC,22797,604732,RTG3,YBL103C,ReTroGrade regulation,,,DiOPT,PANTHER|Ensembl Compara|OrthoFinder,3,9
 TFIP11,tuftelin interacting protein 11,24144,612747,SPP382,YLR424W,Suppressor of PrP38 #2,,,DiOPT,InParanoid|SonicParanoid|PANTHER|OrthoFinder,4,9
@@ -951,6 +1074,7 @@ TGFBI,"transforming growth factor, beta-induced, 68kDa",7045,601692,,YLR001C,,12
 TGFBI,"transforming growth factor, beta-induced, 68kDa",7045,601692,,YLR001C,,121820,"CORNEAL DYSTROPHY, EPITHELIAL BASEMENT MEMBRANE; EBMD",DiOPT,Hieranoid|SonicParanoid|PANTHER,3,9
 TGFBI,"transforming growth factor, beta-induced, 68kDa",7045,601692,,YLR001C,,122200,"CORNEAL DYSTROPHY, LATTICE TYPE I; LCD1",DiOPT,Hieranoid|SonicParanoid|PANTHER,3,9
 TGFBRAP1,transforming growth factor beta receptor associated protein 1,9392,606237,VAM6,YDL077C,VAcuolar Morphogenesis,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder,3,9
+THOP1,thimet oligopeptidase 1,7064,601117,PRD1,YCL057W,PRoteinase yscD,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,8,9
 TIMM17A,translocase of inner mitochondrial membrane 17 homolog A (yeast),10440,605057,TIM17,YJL143W,Translocase of the Inner Mitochondrial membrane,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 TIPRL,TOR signaling pathway regulator,261726,611807,TIP41,YPR040W,Tap42 Interacting Protein,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 TKT,transketolase,7086,606781,TKL1,YPR074C,TransKetoLase,,,DiOPT,OrthoInspector|OrthoFinder|InParanoid|Hieranoid|SonicParanoid|Ensembl Compara,6,9
@@ -973,10 +1097,12 @@ TSG101,tumor susceptibility 101,7251,601387,STP22,YCL008C,STerile Pseudoreversio
 TUBB4B,"tubulin, beta 4B class IVb",10383,602660,TUB2,YFL037W,TUBulin,,,DiOPT,OrthoInspector|PANTHER|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,7,9
 TUBG1,"tubulin, gamma 1",7283,191135,TUB4,YLR212C,TUBulin,615412,"CORTICAL DYSPLASIA, COMPLEX, WITH OTHER BRAIN MALFORMATIONS 4; CDCBM4",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,8,9
 TUBG2,"tubulin, gamma 2",27175,605785,TUB4,YLR212C,TUBulin,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
+TUSC3,tumor suppressor candidate 3,7991,601385,OST3,YOR085W,OligoSaccharylTransferase,611093,"MENTAL RETARDATION, AUTOSOMAL RECESSIVE 7; MRT7",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|Ensembl Compara,8,9
 TWF1,twinfilin actin binding protein 1,5756,610932,TWF1,YGR080W,TWinFilin,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,8,9
 TXN,thioredoxin,7295,187700,TRX1,YLR043C,ThioRedoXin,,,DiOPT,OrthoInspector|InParanoid|Hieranoid|OMA|SonicParanoid,5,9
 TXN,thioredoxin,7295,187700,TRX2,YGR209C,ThioRedoXin,,,DiOPT,OrthoInspector|InParanoid|Hieranoid|OMA|SonicParanoid,5,9
 TXNDC9,thioredoxin domain containing 9,10190,612564,PLP1,YDR183W,Phosducin-Like Protein,,,DiOPT,InParanoid|OrthoInspector|OMA,3,9
+TYMS,thymidylate synthetase,7298,188350,CDC21,YOR074C,Cell Division Cycle,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,8,9
 UBA3,ubiquitin-like modifier activating enzyme 3,9039,603172,UBA3,YPR066W,UBiquitin-like protein-Activating enzyme,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 UBE2A,ubiquitin-conjugating enzyme E2A,7319,312180,RAD6,YGL058W,RADiation sensitive,300860,"MENTAL RETARDATION, X-LINKED, SYNDROMIC, NASCIMENTO TYPE; MRXSN",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid,8,9
 UBE2C,ubiquitin-conjugating enzyme E2C,11065,605574,UBC11,YOR339C,UBiquitin Carrier,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
@@ -1016,6 +1142,7 @@ WWOX,WW domain containing oxidoreductase,51741,605131,ENV9,YOR246C,late ENdosome
 XAB2,XPA binding protein 2,56949,610850,SYF1,YDR416W,SYnthetic lethal with cdcForty,,,DiOPT,OrthoInspector|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,8,9
 XPA,"xeroderma pigmentosum, complementation group A",7507,611153,RAD14,YMR201C,RADiation sensitive,278700,"XERODERMA PIGMENTOSUM, COMPLEMENTATION GROUP A; XPA",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|Ensembl Compara,7,9
 XPC,"xeroderma pigmentosum, complementation group C",7508,613208,RAD4,YER162C,RADiation sensitive,278720,"XERODERMA PIGMENTOSUM, COMPLEMENTATION GROUP C; XPC",DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|SonicParanoid|Ensembl Compara,7,9
+XPNPEP3,"X-prolyl aminopeptidase 3, mitochondrial",63929,613553,ICP55,YER078C,Intermediate Cleaving Peptidase,613159,NEPHRONOPHTHISIS-LIKE NEPHROPATHY 1; NPHPL1,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 XRCC5,X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining),7520,194364,YKU80,YMR106C,Yeast KU protein,,,DiOPT,Hieranoid|PANTHER|Ensembl Compara|OrthoFinder,4,9
 XRN1,5'-3' exoribonuclease 1,54464,607994,XRN1,YGL173C,eXoRiboNuclease,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9
 XYLB,xylulokinase homolog (H. influenzae),9942,604049,XKS1,YGR194C,XyluloKinaSe,,,DiOPT,OrthoInspector|PhylomeDB|PANTHER|OrthoFinder|InParanoid|Hieranoid|OMA|SonicParanoid|Ensembl Compara,9,9

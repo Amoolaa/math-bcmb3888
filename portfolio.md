@@ -26,8 +26,9 @@
   - The problem above is an instance of the Steiner Tree Problem for graphs (this problem is NP-hard so I had to do a lot of digging to find an efficient algorithm to generate the spanning tree). This process returns 43 candidate/intermediate nodes. From here we aim to look at the functional information corresponding to these 43 nodes as well as some centrality measures to shorten the list to a few proteins.
 
 **TODO**
-- Justification for essential nodes
+- Justification for essential nodes plan
 - Justification for centrality measures and how we identified good candidates compared to bad ones
+- Why we aren't using graph centrality measures on trees (some centrality measures become trivial on trees)
 
 
 ## Conclusion

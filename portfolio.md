@@ -49,3 +49,8 @@
 - Run tree-specific centrality measures and analysis to determine most significant candidate nodes based on network topology
 - Combine functional information and other factors (such as presence of a human homolog) to slim down candidate node list further.
 
+## General
+- STP methods might have been better employed on a rarer disease (see page 2 of [Applying Protein–Protein Interactions and Complex Networks to Identify Novel Genes in Retinitis Pigmentosa Pathogenesis](articles/ijms-23-03962-v3.pdf))
+- This method works under the hypothesis that NAFLD nodes are highly connected. It could be the case that there is a questionable/weak association between some proteins and NAFLD that have been included in the list due to the way the list was curated. Hence, we should test the strength of the isolated nodes association with NAFLD. 
+- Need to discuss how NAFLD proteins were sourced.
+- Not sure how strong our hypothesis is when a relatively large amount of nodes are unconnected.

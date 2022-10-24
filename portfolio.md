@@ -33,6 +33,11 @@
 
 ## Conclusion
 
+- Use YeastMine API to generate list of yeast homologs for human proteins identified in literature as being associated to NAFLD
+- Recognise that all of our NAFLD proteins are not connected, i.e. there exists some which can't be reached from others
+- Run an algorithm that finds the least number of non-NAFLD proteins required to connect all the NAFLD proteins (i.e. when we include them in the set of all NAFLD proteins, we get something that is connected)
+- Take the set of non-NAFLD nodes and perform analysis to reduce to a couple of key candidates
+
 ## What we have done
 - Use YeastMine API to generate list of yeast homologs for human proteins identified in literature as being associated to NAFLD
 - Find subgraph induced by NAFLD proteins
@@ -43,7 +48,7 @@
 - Run the Steiner Tree Problem using the SCIP-Jack program (must be done on Linux).
 - Convert the resulting spanning tree produced in the SCIP-Jack file type back into a NetworkX tree
 - Label non-NAFLD nodes used to link isolated NAFLD nodes in the spanning tree as candidate nodes
-- Produce degree vs centrality measure graphs (closeness, betweenness, eigenvector, subgraph) for the full yeast network and the NAFLD-restricted network with the aim of identifying outliers or interesting proteins, with candidate nodes found above highlighted in red
+- Produce degree vs centrality measure graphs (closeness, betweenness, eigenvector, subgraph) for the full yeast network and the NAFLD-restricted network with the aim of identifying outliers or interesting proteins
 
 **TODO**
 - Run tree-specific centrality measures and analysis to determine most significant candidate nodes based on network topology
@@ -54,3 +59,6 @@
 - This method works under the hypothesis that NAFLD nodes are highly connected. It could be the case that there is a questionable/weak association between some proteins and NAFLD that have been included in the list due to the way the list was curated. Hence, we should test the strength of the isolated nodes association with NAFLD. 
 - Need to discuss how NAFLD proteins were sourced.
 - Not sure how strong our hypothesis is when a relatively large amount of nodes are unconnected.
+- Averaging across threshold values is not suitable due to the sensitivity of STP (i.e. potentially very different nodes will be selected). Could be an idea to run many times over many thresholds and take the common set. 
+- Using node-weighted STP where node weights are confidence scores on the strength of the protein's association to NAFLD (https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1958-4)
+- https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004120

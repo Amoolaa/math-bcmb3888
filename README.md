@@ -50,7 +50,6 @@ stp.py was used to convert between NetworkX instances of graphs to the .stp form
 
 ## References
 
-<sub>
 
 1. D. Rehfeldt,T. Koch: Implictions, conflicts, and reductions for Steiner trees.
 Integer Programming and Combinatorial Optimization: 22th International Conference, IPCO 2021, Mohit Singh and David P. Williamson (Eds.), ISBN: 978-3-030-73879-2,
@@ -65,8 +64,6 @@ Modeling, Simulation and Optimization of Complex Processes, HPSC 2018, Hans Geor
 8. Namjou, B., Lingren, T., Huang, Y. et al. GWAS and enrichment analyses of non-alcoholic fatty liver disease identify new trait-associated genes and pathways across eMERGE Network. BMC Med 17, 135 (2019). https://doi.org/10.1186/s12916-019-1364-z
 9. Trépo E, Valenti L. Update on NAFLD genetics: From new variants to the clinic. J Hepatol. 2020 Jun;72(6):1196-1209. doi: 10.1016/j.jhep.2020.02.020. Epub 2020 Mar 4. PMID: 32145256.
 10. Anstee QM, Day CP. The genetics of NAFLD. Nat Rev Gastroenterol Hepatol. 2013 Nov;10(11):645-55. doi: 10.1038/nrgastro.2013.182. Epub 2013 Sep 24. PMID: 24061205.
-
-</sub>
 
 ---
 

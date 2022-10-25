@@ -1,5 +1,21 @@
 # math-bcmb3888
 
+Github repository for 2022 MATH3888 Capstone Stream 2.
+
+## Contents
+
+`stp` folder contains source code for the project. `mega` and `slim` are almost identical folders, with the main difference being using the `slim_list.csv` and the `mega_list.csv` files containing NAFLD-related proteins. `data` contains the essential proteins list `essential.csv` sourced from YeastMine and the yeast network `yeast.txt` sourced from STRING. `human_to_yeast` converts list of human proteins associated with NAFLD to their yeast homologs through the YeastMine API. `stp.py` contains functions to convert between NetworkX graph instances and `.stp` files. 
+
+### Source: Essential Proteins
+1. Go to [YeastMine](https://yeastmine.yeastgenome.org/yeastmine/begin.do)
+2. Go to Phenotypes (in the grey middle bar); then click on "Phenotypes --> Genes"; then choose "=" "inviable".
+
+### Source: Yeast Network
+1.  Go to [STRING](https://string-db.org/)
+2. Go to "download"; -- enter saccharomyces cerevisiae into the dropdown menu "organism name"
+3. Download the file `4932.protein.links.v11.5.txt.gz`
+4. Extract, delete the header and rename to `yeast.txt`
+
 ## Requirements
 
 Required packages can be installed by running `pip install -r requirements`.
